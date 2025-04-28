@@ -1,0 +1,1099 @@
+23:46:46 [INFO ] Server listening on 0.0.0.0:5000
+23:46:53 [INFO ] Connected: 127.0.0.1:57986
+23:46:54 [INFO ] [BATCH] Received 2 vehicles' data
+23:46:54 [DEBUG] veh0 | pwr=30.0 dBm | bc=10 Hz | cbr=0.00 | snr=0.0 dB | reward=-65.00
+23:46:54 [DEBUG] veh1 | pwr=30.0 dBm | bc=10 Hz | cbr=0.00 | snr=0.0 dB | reward=-65.00
+23:46:54 [INFO ] [DEBUG] Sent RL response (134 bytes)
+23:46:55 [INFO ] [BATCH] Received 2 vehicles' data
+23:46:55 [DEBUG] veh0 | pwr=29.0 dBm | bc=9 Hz | cbr=0.00 | snr=0.0 dB | reward=-65.00
+23:46:55 [DEBUG] veh1 | pwr=30.0 dBm | bc=11 Hz | cbr=0.00 | snr=0.0 dB | reward=-65.00
+23:46:55 [INFO ] [DEBUG] Sent RL response (134 bytes)
+23:46:56 [INFO ] [BATCH] Received 2 vehicles' data
+23:46:56 [DEBUG] veh0 | pwr=28.0 dBm | bc=8 Hz | cbr=0.00 | snr=0.0 dB | reward=-65.00
+23:46:56 [DEBUG] veh1 | pwr=29.0 dBm | bc=10 Hz | cbr=0.00 | snr=0.0 dB | reward=-65.00
+23:46:56 [INFO ] [DEBUG] Sent RL response (133 bytes)
+23:48:12 [INFO ] [BATCH] Received 4 vehicles' data
+23:48:12 [DEBUG] veh0 | pwr=29.0 dBm | bc=9 Hz | cbr=0.04 | snr=74.3 dB | reward=-61.47
+23:48:12 [DEBUG] veh1 | pwr=28.0 dBm | bc=9 Hz | cbr=0.04 | snr=76.1 dB | reward=-61.47
+23:48:12 [DEBUG] veh10 | pwr=30.0 dBm | bc=10 Hz | cbr=0.04 | snr=73.3 dB | reward=-61.09
+23:48:12 [DEBUG] veh102 | pwr=30.0 dBm | bc=10 Hz | cbr=0.04 | snr=74.1 dB | reward=-61.09
+23:48:12 [INFO ] [DEBUG] Sent RL response (270 bytes)
+23:48:44 [INFO ] [BATCH] Received 4 vehicles' data
+23:48:44 [DEBUG] veh0 | pwr=28.0 dBm | bc=8 Hz | cbr=0.03 | snr=72.0 dB | reward=-61.59
+23:48:44 [DEBUG] veh1 | pwr=29.0 dBm | bc=10 Hz | cbr=0.03 | snr=74.0 dB | reward=-61.57
+23:48:44 [DEBUG] veh10 | pwr=29.0 dBm | bc=9 Hz | cbr=0.04 | snr=71.0 dB | reward=-61.38
+23:48:44 [DEBUG] veh102 | pwr=30.0 dBm | bc=11 Hz | cbr=0.04 | snr=72.6 dB | reward=-61.38
+23:48:44 [INFO ] [DEBUG] Sent RL response (270 bytes)
+23:49:12 [INFO ] [BATCH] Received 4 vehicles' data
+23:49:12 [DEBUG] veh0 | pwr=29.0 dBm | bc=9 Hz | cbr=0.03 | snr=70.6 dB | reward=-61.62
+23:49:12 [DEBUG] veh1 | pwr=28.0 dBm | bc=9 Hz | cbr=0.03 | snr=72.1 dB | reward=-61.61
+23:49:12 [DEBUG] veh10 | pwr=30.0 dBm | bc=10 Hz | cbr=0.04 | snr=69.6 dB | reward=-61.48
+23:49:12 [DEBUG] veh102 | pwr=29.0 dBm | bc=10 Hz | cbr=0.04 | snr=70.8 dB | reward=-61.47
+23:49:12 [INFO ] [DEBUG] Sent RL response (270 bytes)
+00:20:28 [INFO ] [BATCH] Received 6 vehicles' data
+00:20:28 [DEBUG] veh0 | pwr=30.0 dBm | bc=10 Hz | cbr=0.05 | snr=41.1 dB | reward=-60.44
+00:20:28 [DEBUG] veh1 | pwr=27.0 dBm | bc=8 Hz | cbr=0.04 | snr=46.3 dB | reward=-60.65
+00:20:28 [DEBUG] veh10 | pwr=29.0 dBm | bc=9 Hz | cbr=0.04 | snr=48.6 dB | reward=-60.51
+00:20:28 [DEBUG] veh100 | pwr=30.0 dBm | bc=10 Hz | cbr=0.07 | snr=15.9 dB | reward=-58.26
+00:20:28 [DEBUG] veh102 | pwr=30.0 dBm | bc=11 Hz | cbr=0.05 | snr=48.0 dB | reward=-60.39
+00:20:28 [DEBUG] veh103 | pwr=30.0 dBm | bc=10 Hz | cbr=0.07 | snr=18.4 dB | reward=-58.26
+00:20:28 [INFO ] [DEBUG] Sent RL response (406 bytes)
+01:15:24 [INFO ] [BATCH] Received 6 vehicles' data
+01:15:24 [DEBUG] veh0 | pwr=29.0 dBm | bc=9 Hz | cbr=0.05 | snr=30.2 dB | reward=-60.02
+01:15:24 [DEBUG] veh1 | pwr=28.0 dBm | bc=9 Hz | cbr=0.05 | snr=33.0 dB | reward=-60.16
+01:15:24 [DEBUG] veh10 | pwr=28.0 dBm | bc=8 Hz | cbr=0.05 | snr=39.6 dB | reward=-60.12
+01:15:24 [DEBUG] veh100 | pwr=29.0 dBm | bc=9 Hz | cbr=0.06 | snr=15.3 dB | reward=-58.57
+01:15:24 [DEBUG] veh102 | pwr=30.0 dBm | bc=12 Hz | cbr=0.05 | snr=36.9 dB | reward=-59.91
+01:15:24 [DEBUG] veh103 | pwr=30.0 dBm | bc=11 Hz | cbr=0.06 | snr=17.0 dB | reward=-58.57
+01:15:24 [INFO ] [DEBUG] Sent RL response (407 bytes)
+01:47:57 [INFO ] [BATCH] Received 6 vehicles' data
+01:47:57 [DEBUG] veh0 | pwr=30.0 dBm | bc=10 Hz | cbr=0.05 | snr=23.0 dB | reward=-59.76
+01:47:57 [DEBUG] veh1 | pwr=27.0 dBm | bc=8 Hz | cbr=0.05 | snr=26.5 dB | reward=-59.91
+01:47:57 [DEBUG] veh10 | pwr=29.0 dBm | bc=9 Hz | cbr=0.05 | snr=33.1 dB | reward=-59.86
+01:47:57 [DEBUG] veh100 | pwr=28.0 dBm | bc=8 Hz | cbr=0.06 | snr=15.0 dB | reward=-58.69
+01:47:57 [DEBUG] veh102 | pwr=30.0 dBm | bc=13 Hz | cbr=0.05 | snr=30.4 dB | reward=-59.63
+01:47:57 [DEBUG] veh103 | pwr=29.0 dBm | bc=10 Hz | cbr=0.06 | snr=16.6 dB | reward=-58.67
+01:47:57 [INFO ] [DEBUG] Sent RL response (407 bytes)
+02:25:27 [INFO ] [BATCH] Received 8 vehicles' data
+02:25:27 [DEBUG] veh0 | pwr=29.0 dBm | bc=9 Hz | cbr=0.06 | snr=19.8 dB | reward=-58.95
+02:25:27 [DEBUG] veh1 | pwr=26.0 dBm | bc=7 Hz | cbr=0.06 | snr=22.8 dB | reward=-59.19
+02:25:27 [DEBUG] veh10 | pwr=30.0 dBm | bc=10 Hz | cbr=0.06 | snr=24.0 dB | reward=-58.93
+02:25:27 [DEBUG] veh100 | pwr=27.0 dBm | bc=7 Hz | cbr=0.07 | snr=12.2 dB | reward=-58.07
+02:25:27 [DEBUG] veh101 | pwr=30.0 dBm | bc=10 Hz | cbr=0.09 | snr=4.8 dB | reward=-55.84
+02:25:27 [DEBUG] veh102 | pwr=29.0 dBm | bc=12 Hz | cbr=0.06 | snr=22.2 dB | reward=-58.78
+02:25:27 [DEBUG] veh103 | pwr=30.0 dBm | bc=11 Hz | cbr=0.07 | snr=14.2 dB | reward=-57.87
+02:25:27 [DEBUG] veh104 | pwr=30.0 dBm | bc=10 Hz | cbr=0.09 | snr=11.6 dB | reward=-55.84
+02:25:27 [INFO ] [DEBUG] Sent RL response (545 bytes)
+03:33:07 [INFO ] [BATCH] Received 8 vehicles' data
+03:33:07 [DEBUG] veh0 | pwr=30.0 dBm | bc=10 Hz | cbr=0.07 | snr=17.9 dB | reward=-58.41
+03:33:07 [DEBUG] veh1 | pwr=27.0 dBm | bc=8 Hz | cbr=0.06 | snr=20.2 dB | reward=-58.66
+03:33:07 [DEBUG] veh10 | pwr=30.0 dBm | bc=11 Hz | cbr=0.07 | snr=18.7 dB | reward=-58.34
+03:33:07 [DEBUG] veh100 | pwr=28.0 dBm | bc=8 Hz | cbr=0.07 | snr=9.6 dB | reward=-57.67
+03:33:07 [DEBUG] veh101 | pwr=29.0 dBm | bc=9 Hz | cbr=0.09 | snr=4.2 dB | reward=-56.06
+03:33:07 [DEBUG] veh102 | pwr=28.0 dBm | bc=11 Hz | cbr=0.07 | snr=18.2 dB | reward=-58.32
+03:33:07 [DEBUG] veh103 | pwr=29.0 dBm | bc=10 Hz | cbr=0.07 | snr=12.6 dB | reward=-57.51
+03:33:07 [DEBUG] veh104 | pwr=30.0 dBm | bc=11 Hz | cbr=0.09 | snr=10.0 dB | reward=-56.10
+03:33:07 [INFO ] [DEBUG] Sent RL response (544 bytes)
+04:39:26 [INFO ] [BATCH] Received 8 vehicles' data
+04:39:26 [DEBUG] veh0 | pwr=29.0 dBm | bc=9 Hz | cbr=0.07 | snr=16.7 dB | reward=-58.09
+04:39:26 [DEBUG] veh1 | pwr=26.0 dBm | bc=7 Hz | cbr=0.06 | snr=18.3 dB | reward=-58.69
+04:39:26 [DEBUG] veh10 | pwr=30.0 dBm | bc=12 Hz | cbr=0.07 | snr=15.1 dB | reward=-57.94
+04:39:26 [DEBUG] veh100 | pwr=27.0 dBm | bc=7 Hz | cbr=0.08 | snr=8.1 dB | reward=-57.46
+04:39:26 [DEBUG] veh101 | pwr=30.0 dBm | bc=10 Hz | cbr=0.09 | snr=3.4 dB | reward=-56.13
+04:39:26 [DEBUG] veh102 | pwr=29.0 dBm | bc=12 Hz | cbr=0.07 | snr=15.3 dB | reward=-57.97
+04:39:26 [DEBUG] veh103 | pwr=28.0 dBm | bc=9 Hz | cbr=0.08 | snr=11.5 dB | reward=-57.31
+04:39:26 [DEBUG] veh104 | pwr=30.0 dBm | bc=12 Hz | cbr=0.09 | snr=8.9 dB | reward=-56.17
+04:39:26 [INFO ] [DEBUG] Sent RL response (545 bytes)
+05:32:08 [INFO ] [BATCH] Received 10 vehicles' data
+05:32:08 [DEBUG] veh0 | pwr=30.0 dBm | bc=10 Hz | cbr=0.08 | snr=13.1 dB | reward=-57.18
+05:32:08 [DEBUG] veh1 | pwr=25.0 dBm | bc=6 Hz | cbr=0.06 | snr=20.0 dB | reward=-58.82
+05:32:08 [DEBUG] veh10 | pwr=29.0 dBm | bc=11 Hz | cbr=0.08 | snr=11.7 dB | reward=-57.03
+05:32:08 [DEBUG] veh100 | pwr=28.0 dBm | bc=8 Hz | cbr=0.08 | snr=6.6 dB | reward=-56.59
+05:32:08 [DEBUG] veh101 | pwr=29.0 dBm | bc=9 Hz | cbr=0.10 | snr=5.2 dB | reward=-55.29
+05:32:08 [DEBUG] veh102 | pwr=30.0 dBm | bc=13 Hz | cbr=0.08 | snr=11.8 dB | reward=-57.03
+05:32:08 [DEBUG] veh103 | pwr=29.0 dBm | bc=10 Hz | cbr=0.09 | snr=9.4 dB | reward=-56.48
+05:32:08 [DEBUG] veh104 | pwr=29.0 dBm | bc=11 Hz | cbr=0.10 | snr=8.7 dB | reward=-55.27
+05:32:08 [DEBUG] veh105 | pwr=30.0 dBm | bc=10 Hz | cbr=0.12 | snr=10.3 dB | reward=-52.83
+05:32:08 [DEBUG] veh107 | pwr=30.0 dBm | bc=10 Hz | cbr=0.12 | snr=11.5 dB | reward=-52.83
+05:32:08 [INFO ] [DEBUG] Sent RL response (680 bytes)
+06:56:16 [INFO ] [BATCH] Received 10 vehicles' data
+06:56:16 [DEBUG] veh0 | pwr=29.0 dBm | bc=9 Hz | cbr=0.08 | snr=12.6 dB | reward=-57.09
+06:56:16 [DEBUG] veh1 | pwr=24.0 dBm | bc=5 Hz | cbr=0.06 | snr=21.3 dB | reward=-58.92
+06:56:16 [DEBUG] veh10 | pwr=28.0 dBm | bc=10 Hz | cbr=0.09 | snr=9.5 dB | reward=-56.47
+06:56:16 [DEBUG] veh100 | pwr=29.0 dBm | bc=9 Hz | cbr=0.09 | snr=5.5 dB | reward=-55.96
+06:56:16 [DEBUG] veh101 | pwr=28.0 dBm | bc=8 Hz | cbr=0.10 | snr=5.0 dB | reward=-55.47
+06:56:16 [DEBUG] veh102 | pwr=30.0 dBm | bc=14 Hz | cbr=0.09 | snr=9.7 dB | reward=-56.35
+06:56:16 [DEBUG] veh103 | pwr=28.0 dBm | bc=9 Hz | cbr=0.09 | snr=8.5 dB | reward=-55.98
+06:56:16 [DEBUG] veh104 | pwr=30.0 dBm | bc=12 Hz | cbr=0.10 | snr=8.1 dB | reward=-54.75
+06:56:16 [DEBUG] veh105 | pwr=30.0 dBm | bc=11 Hz | cbr=0.11 | snr=8.5 dB | reward=-54.41
+06:56:16 [DEBUG] veh107 | pwr=29.0 dBm | bc=9 Hz | cbr=0.11 | snr=8.9 dB | reward=-54.27
+06:56:16 [INFO ] [DEBUG] Sent RL response (682 bytes)
+08:14:07 [INFO ] [BATCH] Received 10 vehicles' data
+08:14:07 [DEBUG] veh0 | pwr=30.0 dBm | bc=10 Hz | cbr=0.08 | snr=12.2 dB | reward=-57.01
+08:14:07 [DEBUG] veh1 | pwr=23.0 dBm | bc=4 Hz | cbr=0.06 | snr=22.3 dB | reward=-59.00
+08:14:07 [DEBUG] veh10 | pwr=29.0 dBm | bc=11 Hz | cbr=0.09 | snr=7.9 dB | reward=-56.01
+08:14:07 [DEBUG] veh100 | pwr=30.0 dBm | bc=10 Hz | cbr=0.10 | snr=5.0 dB | reward=-55.49
+08:14:07 [DEBUG] veh101 | pwr=29.0 dBm | bc=9 Hz | cbr=0.09 | snr=4.4 dB | reward=-55.60
+08:14:07 [DEBUG] veh102 | pwr=30.0 dBm | bc=15 Hz | cbr=0.09 | snr=8.1 dB | reward=-55.83
+08:14:07 [DEBUG] veh103 | pwr=27.0 dBm | bc=8 Hz | cbr=0.09 | snr=7.9 dB | reward=-56.02
+08:14:07 [DEBUG] veh104 | pwr=29.0 dBm | bc=11 Hz | cbr=0.10 | snr=7.2 dB | reward=-54.97
+08:14:07 [DEBUG] veh105 | pwr=29.0 dBm | bc=10 Hz | cbr=0.10 | snr=7.3 dB | reward=-54.97
+08:14:07 [DEBUG] veh107 | pwr=28.0 dBm | bc=8 Hz | cbr=0.10 | snr=7.7 dB | reward=-54.83
+08:14:07 [INFO ] [DEBUG] Sent RL response (681 bytes)
+09:40:42 [INFO ] [BATCH] Received 12 vehicles' data
+09:40:42 [DEBUG] veh0 | pwr=29.0 dBm | bc=9 Hz | cbr=0.08 | snr=11.5 dB | reward=-57.13
+09:40:42 [DEBUG] veh1 | pwr=24.0 dBm | bc=5 Hz | cbr=0.06 | snr=23.4 dB | reward=-59.09
+09:40:42 [DEBUG] veh10 | pwr=30.0 dBm | bc=12 Hz | cbr=0.10 | snr=7.3 dB | reward=-54.93
+09:40:42 [DEBUG] veh100 | pwr=30.0 dBm | bc=11 Hz | cbr=0.11 | snr=3.8 dB | reward=-54.31
+09:40:42 [DEBUG] veh101 | pwr=30.0 dBm | bc=10 Hz | cbr=0.10 | snr=3.9 dB | reward=-55.16
+09:40:42 [DEBUG] veh102 | pwr=30.0 dBm | bc=16 Hz | cbr=0.10 | snr=6.9 dB | reward=-54.68
+09:40:42 [DEBUG] veh103 | pwr=28.0 dBm | bc=9 Hz | cbr=0.09 | snr=6.7 dB | reward=-55.68
+09:40:42 [DEBUG] veh104 | pwr=28.0 dBm | bc=10 Hz | cbr=0.10 | snr=6.1 dB | reward=-54.72
+09:40:42 [DEBUG] veh105 | pwr=28.0 dBm | bc=9 Hz | cbr=0.10 | snr=8.2 dB | reward=-54.54
+09:40:42 [DEBUG] veh106 | pwr=30.0 dBm | bc=10 Hz | cbr=0.12 | snr=11.1 dB | reward=-52.83
+09:40:42 [DEBUG] veh107 | pwr=29.0 dBm | bc=9 Hz | cbr=0.11 | snr=7.3 dB | reward=-54.40
+09:40:42 [DEBUG] veh108 | pwr=30.0 dBm | bc=10 Hz | cbr=0.12 | snr=8.5 dB | reward=-52.83
+09:40:42 [INFO ] [DEBUG] Sent RL response (818 bytes)
+12:11:05 [INFO ] [BATCH] Received 12 vehicles' data
+12:11:05 [DEBUG] veh0 | pwr=30.0 dBm | bc=10 Hz | cbr=0.08 | snr=10.8 dB | reward=-57.24
+12:11:05 [DEBUG] veh1 | pwr=23.0 dBm | bc=4 Hz | cbr=0.06 | snr=23.4 dB | reward=-59.09
+12:11:05 [DEBUG] veh10 | pwr=29.0 dBm | bc=11 Hz | cbr=0.11 | snr=6.8 dB | reward=-54.22
+12:11:05 [DEBUG] veh100 | pwr=29.0 dBm | bc=10 Hz | cbr=0.11 | snr=3.1 dB | reward=-53.58
+12:11:05 [DEBUG] veh101 | pwr=29.0 dBm | bc=9 Hz | cbr=0.10 | snr=3.5 dB | reward=-54.89
+12:11:05 [DEBUG] veh102 | pwr=30.0 dBm | bc=17 Hz | cbr=0.11 | snr=6.2 dB | reward=-54.46
+12:11:05 [DEBUG] veh103 | pwr=27.0 dBm | bc=8 Hz | cbr=0.10 | snr=5.7 dB | reward=-55.45
+12:11:05 [DEBUG] veh104 | pwr=29.0 dBm | bc=11 Hz | cbr=0.10 | snr=5.3 dB | reward=-54.51
+12:11:05 [DEBUG] veh105 | pwr=27.0 dBm | bc=8 Hz | cbr=0.10 | snr=7.7 dB | reward=-54.81
+12:11:05 [DEBUG] veh106 | pwr=29.0 dBm | bc=9 Hz | cbr=0.11 | snr=8.7 dB | reward=-54.27
+12:11:05 [DEBUG] veh107 | pwr=28.0 dBm | bc=8 Hz | cbr=0.11 | snr=7.0 dB | reward=-54.19
+12:11:05 [DEBUG] veh108 | pwr=30.0 dBm | bc=11 Hz | cbr=0.12 | snr=8.0 dB | reward=-53.04
+12:11:05 [INFO ] [DEBUG] Sent RL response (818 bytes)
+13:56:14 [INFO ] [BATCH] Received 12 vehicles' data
+13:56:14 [DEBUG] veh0 | pwr=30.0 dBm | bc=11 Hz | cbr=0.08 | snr=10.1 dB | reward=-57.35
+13:56:14 [DEBUG] veh1 | pwr=22.0 dBm | bc=3 Hz | cbr=0.06 | snr=23.4 dB | reward=-59.09
+13:56:14 [DEBUG] veh10 | pwr=30.0 dBm | bc=12 Hz | cbr=0.11 | snr=6.4 dB | reward=-53.62
+13:56:14 [DEBUG] veh100 | pwr=28.0 dBm | bc=9 Hz | cbr=0.11 | snr=2.6 dB | reward=-53.55
+13:56:14 [DEBUG] veh101 | pwr=28.0 dBm | bc=8 Hz | cbr=0.10 | snr=3.4 dB | reward=-54.71
+13:56:14 [DEBUG] veh102 | pwr=30.0 dBm | bc=18 Hz | cbr=0.10 | snr=5.6 dB | reward=-54.60
+13:56:14 [DEBUG] veh103 | pwr=28.0 dBm | bc=9 Hz | cbr=0.10 | snr=4.9 dB | reward=-55.23
+13:56:14 [DEBUG] veh104 | pwr=28.0 dBm | bc=10 Hz | cbr=0.11 | snr=4.5 dB | reward=-54.36
+13:56:14 [DEBUG] veh105 | pwr=26.0 dBm | bc=7 Hz | cbr=0.10 | snr=7.2 dB | reward=-55.00
+13:56:14 [DEBUG] veh106 | pwr=30.0 dBm | bc=10 Hz | cbr=0.10 | snr=6.8 dB | reward=-54.90
+13:56:14 [DEBUG] veh107 | pwr=29.0 dBm | bc=9 Hz | cbr=0.11 | snr=6.9 dB | reward=-54.03
+13:56:14 [DEBUG] veh108 | pwr=30.0 dBm | bc=12 Hz | cbr=0.12 | snr=8.4 dB | reward=-53.10
+13:56:14 [INFO ] [DEBUG] Sent RL response (818 bytes)
+15:39:25 [INFO ] [BATCH] Received 14 vehicles' data
+15:39:25 [DEBUG] veh0 | pwr=30.0 dBm | bc=12 Hz | cbr=0.08 | snr=11.7 dB | reward=-57.50
+15:39:25 [DEBUG] veh1 | pwr=23.0 dBm | bc=4 Hz | cbr=0.06 | snr=23.4 dB | reward=-59.09
+15:39:25 [DEBUG] veh10 | pwr=29.0 dBm | bc=11 Hz | cbr=0.11 | snr=6.2 dB | reward=-53.79
+15:39:25 [DEBUG] veh100 | pwr=29.0 dBm | bc=10 Hz | cbr=0.12 | snr=2.4 dB | reward=-53.06
+15:39:25 [DEBUG] veh101 | pwr=29.0 dBm | bc=9 Hz | cbr=0.11 | snr=2.8 dB | reward=-53.99
+15:39:25 [DEBUG] veh102 | pwr=29.0 dBm | bc=17 Hz | cbr=0.10 | snr=5.2 dB | reward=-54.72
+15:39:25 [DEBUG] veh103 | pwr=27.0 dBm | bc=8 Hz | cbr=0.10 | snr=4.4 dB | reward=-55.07
+15:39:25 [DEBUG] veh104 | pwr=29.0 dBm | bc=11 Hz | cbr=0.11 | snr=3.9 dB | reward=-53.68
+15:39:25 [DEBUG] veh105 | pwr=25.0 dBm | bc=6 Hz | cbr=0.10 | snr=6.6 dB | reward=-54.82
+15:39:25 [DEBUG] veh106 | pwr=29.0 dBm | bc=9 Hz | cbr=0.11 | snr=8.5 dB | reward=-54.47
+15:39:25 [DEBUG] veh107 | pwr=28.0 dBm | bc=8 Hz | cbr=0.11 | snr=6.3 dB | reward=-53.93
+15:39:25 [DEBUG] veh108 | pwr=30.0 dBm | bc=13 Hz | cbr=0.12 | snr=8.6 dB | reward=-53.12
+15:39:25 [DEBUG] veh109 | pwr=30.0 dBm | bc=10 Hz | cbr=0.12 | snr=14.6 dB | reward=-52.83
+15:39:25 [DEBUG] veh110 | pwr=30.0 dBm | bc=10 Hz | cbr=0.12 | snr=12.0 dB | reward=-52.83
+15:39:25 [INFO ] [DEBUG] Sent RL response (957 bytes)
+19:20:02 [INFO ] [BATCH] Received 14 vehicles' data
+19:20:02 [DEBUG] veh0 | pwr=29.0 dBm | bc=11 Hz | cbr=0.07 | snr=12.9 dB | reward=-57.63
+19:20:02 [DEBUG] veh1 | pwr=24.0 dBm | bc=5 Hz | cbr=0.06 | snr=23.4 dB | reward=-59.09
+19:20:02 [DEBUG] veh10 | pwr=28.0 dBm | bc=10 Hz | cbr=0.11 | snr=5.9 dB | reward=-53.93
+19:20:02 [DEBUG] veh100 | pwr=30.0 dBm | bc=11 Hz | cbr=0.12 | snr=2.5 dB | reward=-52.63
+19:20:02 [DEBUG] veh101 | pwr=30.0 dBm | bc=10 Hz | cbr=0.12 | snr=2.3 dB | reward=-53.38
+19:20:02 [DEBUG] veh102 | pwr=30.0 dBm | bc=18 Hz | cbr=0.10 | snr=5.0 dB | reward=-54.82
+19:20:02 [DEBUG] veh103 | pwr=26.0 dBm | bc=7 Hz | cbr=0.10 | snr=4.3 dB | reward=-55.14
+19:20:02 [DEBUG] veh104 | pwr=30.0 dBm | bc=12 Hz | cbr=0.12 | snr=3.4 dB | reward=-53.12
+19:20:02 [DEBUG] veh105 | pwr=24.0 dBm | bc=5 Hz | cbr=0.10 | snr=6.3 dB | reward=-54.93
+19:20:02 [DEBUG] veh106 | pwr=30.0 dBm | bc=10 Hz | cbr=0.11 | snr=8.9 dB | reward=-54.19
+19:20:02 [DEBUG] veh107 | pwr=27.0 dBm | bc=7 Hz | cbr=0.11 | snr=5.9 dB | reward=-53.87
+19:20:02 [DEBUG] veh108 | pwr=30.0 dBm | bc=14 Hz | cbr=0.12 | snr=8.4 dB | reward=-53.12
+19:20:02 [DEBUG] veh109 | pwr=29.0 dBm | bc=9 Hz | cbr=0.11 | snr=11.7 dB | reward=-54.27
+19:20:02 [DEBUG] veh110 | pwr=30.0 dBm | bc=11 Hz | cbr=0.12 | snr=11.7 dB | reward=-53.07
+19:20:02 [INFO ] [DEBUG] Sent RL response (956 bytes)
+21:17:24 [INFO ] [BATCH] Received 14 vehicles' data
+21:17:24 [DEBUG] veh0 | pwr=30.0 dBm | bc=12 Hz | cbr=0.07 | snr=14.3 dB | reward=-57.76
+21:17:24 [DEBUG] veh1 | pwr=23.0 dBm | bc=4 Hz | cbr=0.06 | snr=23.4 dB | reward=-59.09
+21:17:24 [DEBUG] veh10 | pwr=29.0 dBm | bc=11 Hz | cbr=0.11 | snr=5.7 dB | reward=-54.06
+21:17:24 [DEBUG] veh100 | pwr=30.0 dBm | bc=12 Hz | cbr=0.12 | snr=2.0 dB | reward=-52.68
+21:17:24 [DEBUG] veh101 | pwr=29.0 dBm | bc=9 Hz | cbr=0.12 | snr=1.9 dB | reward=-52.96
+21:17:24 [DEBUG] veh102 | pwr=29.0 dBm | bc=17 Hz | cbr=0.10 | snr=5.1 dB | reward=-54.99
+21:17:24 [DEBUG] veh103 | pwr=27.0 dBm | bc=8 Hz | cbr=0.10 | snr=4.2 dB | reward=-55.21
+21:17:24 [DEBUG] veh104 | pwr=29.0 dBm | bc=11 Hz | cbr=0.12 | snr=3.2 dB | reward=-53.13
+21:17:24 [DEBUG] veh105 | pwr=25.0 dBm | bc=6 Hz | cbr=0.10 | snr=6.1 dB | reward=-55.05
+21:17:24 [DEBUG] veh106 | pwr=30.0 dBm | bc=11 Hz | cbr=0.11 | snr=8.5 dB | reward=-54.00
+21:17:24 [DEBUG] veh107 | pwr=28.0 dBm | bc=8 Hz | cbr=0.11 | snr=5.6 dB | reward=-53.81
+21:17:24 [DEBUG] veh108 | pwr=29.0 dBm | bc=13 Hz | cbr=0.11 | snr=7.5 dB | reward=-53.55
+21:17:24 [DEBUG] veh109 | pwr=28.0 dBm | bc=8 Hz | cbr=0.10 | snr=10.4 dB | reward=-54.84
+21:17:24 [DEBUG] veh110 | pwr=29.0 dBm | bc=10 Hz | cbr=0.11 | snr=9.9 dB | reward=-53.94
+21:17:24 [INFO ] [DEBUG] Sent RL response (955 bytes)
+23:57:54 [INFO ] [BATCH] Received 16 vehicles' data
+23:57:54 [DEBUG] veh0 | pwr=30.0 dBm | bc=13 Hz | cbr=0.07 | snr=15.6 dB | reward=-57.89
+23:57:54 [DEBUG] veh1 | pwr=22.0 dBm | bc=3 Hz | cbr=0.06 | snr=23.4 dB | reward=-59.09
+23:57:54 [DEBUG] veh10 | pwr=30.0 dBm | bc=12 Hz | cbr=0.11 | snr=5.5 dB | reward=-54.19
+23:57:54 [DEBUG] veh100 | pwr=30.0 dBm | bc=13 Hz | cbr=0.12 | snr=2.5 dB | reward=-52.92
+23:57:54 [DEBUG] veh101 | pwr=28.0 dBm | bc=8 Hz | cbr=0.12 | snr=1.8 dB | reward=-52.99
+23:57:54 [DEBUG] veh102 | pwr=28.0 dBm | bc=16 Hz | cbr=0.10 | snr=5.3 dB | reward=-55.14
+23:57:54 [DEBUG] veh103 | pwr=26.0 dBm | bc=7 Hz | cbr=0.10 | snr=4.4 dB | reward=-55.32
+23:57:54 [DEBUG] veh104 | pwr=30.0 dBm | bc=12 Hz | cbr=0.12 | snr=2.6 dB | reward=-52.72
+23:57:54 [DEBUG] veh105 | pwr=26.0 dBm | bc=7 Hz | cbr=0.10 | snr=5.2 dB | reward=-54.87
+23:57:54 [DEBUG] veh106 | pwr=30.0 dBm | bc=12 Hz | cbr=0.12 | snr=6.5 dB | reward=-53.00
+23:57:54 [DEBUG] veh107 | pwr=27.0 dBm | bc=7 Hz | cbr=0.11 | snr=4.9 dB | reward=-53.77
+23:57:54 [DEBUG] veh108 | pwr=30.0 dBm | bc=14 Hz | cbr=0.12 | snr=6.4 dB | reward=-53.48
+23:57:54 [DEBUG] veh109 | pwr=29.0 dBm | bc=9 Hz | cbr=0.11 | snr=10.0 dB | reward=-54.42
+23:57:54 [DEBUG] veh11 | pwr=30.0 dBm | bc=10 Hz | cbr=0.12 | snr=10.6 dB | reward=-52.83
+23:57:54 [DEBUG] veh110 | pwr=28.0 dBm | bc=9 Hz | cbr=0.11 | snr=9.1 dB | reward=-53.79
+23:57:54 [DEBUG] veh111 | pwr=30.0 dBm | bc=10 Hz | cbr=0.12 | snr=7.8 dB | reward=-52.83
+23:57:54 [INFO ] [DEBUG] Sent RL response (1092 bytes)
+01:48:13 [INFO ] [BATCH] Received 16 vehicles' data
+01:48:13 [DEBUG] veh0 | pwr=29.0 dBm | bc=12 Hz | cbr=0.07 | snr=16.7 dB | reward=-58.00
+01:48:13 [DEBUG] veh1 | pwr=23.0 dBm | bc=4 Hz | cbr=0.06 | snr=23.4 dB | reward=-59.09
+01:48:13 [DEBUG] veh10 | pwr=29.0 dBm | bc=11 Hz | cbr=0.11 | snr=5.6 dB | reward=-54.35
+01:48:13 [DEBUG] veh100 | pwr=29.0 dBm | bc=12 Hz | cbr=0.12 | snr=2.9 dB | reward=-53.11
+01:48:13 [DEBUG] veh101 | pwr=29.0 dBm | bc=9 Hz | cbr=0.12 | snr=1.6 dB | reward=-53.01
+01:48:13 [DEBUG] veh102 | pwr=27.0 dBm | bc=15 Hz | cbr=0.10 | snr=5.3 dB | reward=-55.27
+01:48:13 [DEBUG] veh103 | pwr=25.0 dBm | bc=6 Hz | cbr=0.10 | snr=5.2 dB | reward=-55.41
+01:48:13 [DEBUG] veh104 | pwr=30.0 dBm | bc=13 Hz | cbr=0.12 | snr=2.4 dB | reward=-52.76
+01:48:13 [DEBUG] veh105 | pwr=25.0 dBm | bc=6 Hz | cbr=0.10 | snr=5.2 dB | reward=-54.97
+01:48:13 [DEBUG] veh106 | pwr=29.0 dBm | bc=11 Hz | cbr=0.12 | snr=5.7 dB | reward=-53.04
+01:48:13 [DEBUG] veh107 | pwr=26.0 dBm | bc=6 Hz | cbr=0.11 | snr=4.4 dB | reward=-53.75
+01:48:13 [DEBUG] veh108 | pwr=30.0 dBm | bc=15 Hz | cbr=0.12 | snr=5.9 dB | reward=-53.42
+01:48:13 [DEBUG] veh109 | pwr=28.0 dBm | bc=8 Hz | cbr=0.10 | snr=9.6 dB | reward=-54.74
+01:48:13 [DEBUG] veh11 | pwr=30.0 dBm | bc=11 Hz | cbr=0.11 | snr=9.3 dB | reward=-54.41
+01:48:13 [DEBUG] veh110 | pwr=29.0 dBm | bc=10 Hz | cbr=0.11 | snr=8.0 dB | reward=-53.68
+01:48:13 [DEBUG] veh111 | pwr=29.0 dBm | bc=9 Hz | cbr=0.11 | snr=7.1 dB | reward=-54.25
+01:48:13 [INFO ] [DEBUG] Sent RL response (1093 bytes)
+03:52:28 [INFO ] [BATCH] Received 16 vehicles' data
+03:52:28 [DEBUG] veh0 | pwr=30.0 dBm | bc=13 Hz | cbr=0.07 | snr=17.8 dB | reward=-58.12
+03:52:28 [DEBUG] veh1 | pwr=22.0 dBm | bc=3 Hz | cbr=0.06 | snr=23.4 dB | reward=-59.09
+03:52:28 [DEBUG] veh10 | pwr=28.0 dBm | bc=10 Hz | cbr=0.11 | snr=6.4 dB | reward=-54.46
+03:52:28 [DEBUG] veh100 | pwr=30.0 dBm | bc=13 Hz | cbr=0.12 | snr=3.2 dB | reward=-53.30
+03:52:28 [DEBUG] veh101 | pwr=30.0 dBm | bc=10 Hz | cbr=0.12 | snr=1.6 dB | reward=-52.68
+03:52:28 [DEBUG] veh102 | pwr=28.0 dBm | bc=16 Hz | cbr=0.10 | snr=5.4 dB | reward=-55.40
+03:52:28 [DEBUG] veh103 | pwr=24.0 dBm | bc=5 Hz | cbr=0.10 | snr=5.8 dB | reward=-55.48
+03:52:28 [DEBUG] veh104 | pwr=29.0 dBm | bc=12 Hz | cbr=0.12 | snr=2.7 dB | reward=-52.94
+03:52:28 [DEBUG] veh105 | pwr=24.0 dBm | bc=5 Hz | cbr=0.10 | snr=5.2 dB | reward=-55.11
+03:52:28 [DEBUG] veh106 | pwr=28.0 dBm | bc=10 Hz | cbr=0.12 | snr=5.5 dB | reward=-53.06
+03:52:28 [DEBUG] veh107 | pwr=25.0 dBm | bc=5 Hz | cbr=0.11 | snr=4.3 dB | reward=-53.86
+03:52:28 [DEBUG] veh108 | pwr=30.0 dBm | bc=16 Hz | cbr=0.12 | snr=5.3 dB | reward=-53.37
+03:52:28 [DEBUG] veh109 | pwr=29.0 dBm | bc=9 Hz | cbr=0.10 | snr=9.0 dB | reward=-54.99
+03:52:28 [DEBUG] veh11 | pwr=29.0 dBm | bc=10 Hz | cbr=0.10 | snr=9.1 dB | reward=-54.97
+03:52:28 [DEBUG] veh110 | pwr=28.0 dBm | bc=9 Hz | cbr=0.11 | snr=7.3 dB | reward=-54.01
+03:52:28 [DEBUG] veh111 | pwr=30.0 dBm | bc=10 Hz | cbr=0.10 | snr=6.3 dB | reward=-54.89
+03:52:28 [INFO ] [DEBUG] Sent RL response (1092 bytes)
+05:23:39 [INFO ] [BATCH] Received 18 vehicles' data
+05:23:39 [DEBUG] veh0 | pwr=29.0 dBm | bc=12 Hz | cbr=0.07 | snr=17.8 dB | reward=-58.12
+05:23:39 [DEBUG] veh1 | pwr=23.0 dBm | bc=4 Hz | cbr=0.06 | snr=23.4 dB | reward=-59.09
+05:23:39 [DEBUG] veh10 | pwr=27.0 dBm | bc=9 Hz | cbr=0.10 | snr=7.1 dB | reward=-54.56
+05:23:39 [DEBUG] veh100 | pwr=30.0 dBm | bc=14 Hz | cbr=0.11 | snr=3.3 dB | reward=-53.52
+05:23:39 [DEBUG] veh101 | pwr=30.0 dBm | bc=11 Hz | cbr=0.12 | snr=2.1 dB | reward=-52.88
+05:23:39 [DEBUG] veh102 | pwr=29.0 dBm | bc=17 Hz | cbr=0.09 | snr=5.4 dB | reward=-55.53
+05:23:39 [DEBUG] veh103 | pwr=23.0 dBm | bc=4 Hz | cbr=0.09 | snr=6.2 dB | reward=-55.53
+05:23:39 [DEBUG] veh104 | pwr=28.0 dBm | bc=11 Hz | cbr=0.12 | snr=2.7 dB | reward=-53.13
+05:23:39 [DEBUG] veh105 | pwr=25.0 dBm | bc=6 Hz | cbr=0.10 | snr=5.3 dB | reward=-55.26
+05:23:39 [DEBUG] veh106 | pwr=29.0 dBm | bc=11 Hz | cbr=0.12 | snr=4.9 dB | reward=-52.58
+05:23:39 [DEBUG] veh107 | pwr=24.0 dBm | bc=4 Hz | cbr=0.11 | snr=4.3 dB | reward=-53.95
+05:23:39 [DEBUG] veh108 | pwr=29.0 dBm | bc=15 Hz | cbr=0.12 | snr=4.6 dB | reward=-52.79
+05:23:39 [DEBUG] veh109 | pwr=28.0 dBm | bc=8 Hz | cbr=0.10 | snr=7.9 dB | reward=-54.74
+05:23:39 [DEBUG] veh11 | pwr=30.0 dBm | bc=11 Hz | cbr=0.11 | snr=9.7 dB | reward=-54.45
+05:23:39 [DEBUG] veh110 | pwr=27.0 dBm | bc=8 Hz | cbr=0.11 | snr=6.6 dB | reward=-53.93
+05:23:39 [DEBUG] veh111 | pwr=30.0 dBm | bc=11 Hz | cbr=0.11 | snr=8.1 dB | reward=-54.37
+05:23:39 [DEBUG] veh112 | pwr=30.0 dBm | bc=10 Hz | cbr=0.12 | snr=13.7 dB | reward=-52.83
+05:23:39 [DEBUG] veh113 | pwr=30.0 dBm | bc=10 Hz | cbr=0.12 | snr=14.5 dB | reward=-52.83
+05:23:39 [INFO ] [DEBUG] Sent RL response (1229 bytes)
+07:04:25 [INFO ] [BATCH] Received 18 vehicles' data
+07:04:25 [DEBUG] veh0 | pwr=28.0 dBm | bc=11 Hz | cbr=0.07 | snr=17.8 dB | reward=-58.12
+07:04:25 [DEBUG] veh1 | pwr=22.0 dBm | bc=3 Hz | cbr=0.06 | snr=23.4 dB | reward=-59.09
+07:04:25 [DEBUG] veh10 | pwr=26.0 dBm | bc=8 Hz | cbr=0.10 | snr=7.7 dB | reward=-54.64
+07:04:25 [DEBUG] veh100 | pwr=30.0 dBm | bc=15 Hz | cbr=0.11 | snr=3.4 dB | reward=-53.73
+07:04:25 [DEBUG] veh101 | pwr=29.0 dBm | bc=10 Hz | cbr=0.12 | snr=2.6 dB | reward=-53.05
+07:04:25 [DEBUG] veh102 | pwr=30.0 dBm | bc=18 Hz | cbr=0.09 | snr=5.3 dB | reward=-55.64
+07:04:25 [DEBUG] veh103 | pwr=22.0 dBm | bc=3 Hz | cbr=0.09 | snr=6.6 dB | reward=-55.57
+07:04:25 [DEBUG] veh104 | pwr=29.0 dBm | bc=12 Hz | cbr=0.12 | snr=2.8 dB | reward=-53.32
+07:04:25 [DEBUG] veh105 | pwr=26.0 dBm | bc=7 Hz | cbr=0.10 | snr=5.3 dB | reward=-55.42
+07:04:25 [DEBUG] veh106 | pwr=28.0 dBm | bc=10 Hz | cbr=0.12 | snr=4.3 dB | reward=-52.64
+07:04:25 [DEBUG] veh107 | pwr=25.0 dBm | bc=5 Hz | cbr=0.11 | snr=4.3 dB | reward=-54.05
+07:04:25 [DEBUG] veh108 | pwr=28.0 dBm | bc=14 Hz | cbr=0.12 | snr=4.2 dB | reward=-52.82
+07:04:25 [DEBUG] veh109 | pwr=29.0 dBm | bc=9 Hz | cbr=0.10 | snr=7.0 dB | reward=-54.53
+07:04:25 [DEBUG] veh11 | pwr=29.0 dBm | bc=10 Hz | cbr=0.10 | snr=9.1 dB | reward=-54.77
+07:04:25 [DEBUG] veh110 | pwr=26.0 dBm | bc=7 Hz | cbr=0.11 | snr=6.3 dB | reward=-53.87
+07:04:25 [DEBUG] veh111 | pwr=30.0 dBm | bc=12 Hz | cbr=0.11 | snr=8.5 dB | reward=-54.08
+07:04:25 [DEBUG] veh112 | pwr=30.0 dBm | bc=11 Hz | cbr=0.11 | snr=10.9 dB | reward=-54.41
+07:04:25 [DEBUG] veh113 | pwr=29.0 dBm | bc=9 Hz | cbr=0.12 | snr=14.1 dB | reward=-53.08
+07:04:25 [INFO ] [DEBUG] Sent RL response (1229 bytes)
+08:45:40 [INFO ] [BATCH] Received 18 vehicles' data
+08:45:40 [DEBUG] veh0 | pwr=29.0 dBm | bc=12 Hz | cbr=0.07 | snr=17.8 dB | reward=-58.12
+08:45:40 [DEBUG] veh1 | pwr=23.0 dBm | bc=4 Hz | cbr=0.06 | snr=23.4 dB | reward=-59.09
+08:45:40 [DEBUG] veh10 | pwr=27.0 dBm | bc=9 Hz | cbr=0.10 | snr=8.4 dB | reward=-54.73
+08:45:40 [DEBUG] veh100 | pwr=29.0 dBm | bc=14 Hz | cbr=0.11 | snr=3.5 dB | reward=-53.92
+08:45:40 [DEBUG] veh101 | pwr=30.0 dBm | bc=11 Hz | cbr=0.12 | snr=3.0 dB | reward=-53.21
+08:45:40 [DEBUG] veh102 | pwr=30.0 dBm | bc=19 Hz | cbr=0.09 | snr=5.3 dB | reward=-55.76
+08:45:40 [DEBUG] veh103 | pwr=21.0 dBm | bc=2 Hz | cbr=0.09 | snr=6.6 dB | reward=-55.57
+08:45:40 [DEBUG] veh104 | pwr=30.0 dBm | bc=13 Hz | cbr=0.12 | snr=2.9 dB | reward=-53.47
+08:45:40 [DEBUG] veh105 | pwr=25.0 dBm | bc=6 Hz | cbr=0.09 | snr=5.2 dB | reward=-55.55
+08:45:40 [DEBUG] veh106 | pwr=27.0 dBm | bc=9 Hz | cbr=0.12 | snr=3.9 dB | reward=-52.68
+08:45:40 [DEBUG] veh107 | pwr=24.0 dBm | bc=4 Hz | cbr=0.11 | snr=4.8 dB | reward=-54.13
+08:45:40 [DEBUG] veh108 | pwr=27.0 dBm | bc=13 Hz | cbr=0.12 | snr=3.8 dB | reward=-52.84
+08:45:40 [DEBUG] veh109 | pwr=28.0 dBm | bc=8 Hz | cbr=0.11 | snr=6.7 dB | reward=-54.39
+08:45:40 [DEBUG] veh11 | pwr=30.0 dBm | bc=11 Hz | cbr=0.10 | snr=8.5 dB | reward=-55.00
+08:45:40 [DEBUG] veh110 | pwr=25.0 dBm | bc=6 Hz | cbr=0.11 | snr=6.1 dB | reward=-54.03
+08:45:40 [DEBUG] veh111 | pwr=29.0 dBm | bc=11 Hz | cbr=0.11 | snr=9.0 dB | reward=-53.92
+08:45:40 [DEBUG] veh112 | pwr=29.0 dBm | bc=10 Hz | cbr=0.10 | snr=10.1 dB | reward=-54.98
+08:45:40 [DEBUG] veh113 | pwr=30.0 dBm | bc=10 Hz | cbr=0.11 | snr=12.5 dB | reward=-54.01
+08:45:40 [INFO ] [DEBUG] Sent RL response (1228 bytes)
+11:08:32 [INFO ] [BATCH] Received 20 vehicles' data
+11:08:32 [DEBUG] veh0 | pwr=28.0 dBm | bc=11 Hz | cbr=0.07 | snr=17.8 dB | reward=-58.12
+11:08:32 [DEBUG] veh1 | pwr=22.0 dBm | bc=3 Hz | cbr=0.06 | snr=23.4 dB | reward=-59.09
+11:08:32 [DEBUG] veh10 | pwr=26.0 dBm | bc=8 Hz | cbr=0.10 | snr=8.9 dB | reward=-54.82
+11:08:32 [DEBUG] veh100 | pwr=30.0 dBm | bc=15 Hz | cbr=0.11 | snr=3.6 dB | reward=-54.10
+11:08:32 [DEBUG] veh101 | pwr=29.0 dBm | bc=10 Hz | cbr=0.12 | snr=2.9 dB | reward=-53.38
+11:08:32 [DEBUG] veh102 | pwr=30.0 dBm | bc=20 Hz | cbr=0.09 | snr=5.3 dB | reward=-55.87
+11:08:32 [DEBUG] veh103 | pwr=22.0 dBm | bc=3 Hz | cbr=0.09 | snr=6.9 dB | reward=-55.61
+11:08:32 [DEBUG] veh104 | pwr=30.0 dBm | bc=14 Hz | cbr=0.11 | snr=3.0 dB | reward=-53.65
+11:08:32 [DEBUG] veh105 | pwr=24.0 dBm | bc=5 Hz | cbr=0.09 | snr=5.1 dB | reward=-55.65
+11:08:32 [DEBUG] veh106 | pwr=28.0 dBm | bc=10 Hz | cbr=0.12 | snr=3.8 dB | reward=-52.89
+11:08:32 [DEBUG] veh107 | pwr=25.0 dBm | bc=5 Hz | cbr=0.11 | snr=5.5 dB | reward=-54.23
+11:08:32 [DEBUG] veh108 | pwr=26.0 dBm | bc=12 Hz | cbr=0.12 | snr=3.9 dB | reward=-53.02
+11:08:32 [DEBUG] veh109 | pwr=27.0 dBm | bc=7 Hz | cbr=0.11 | snr=5.9 dB | reward=-54.30
+11:08:32 [DEBUG] veh11 | pwr=29.0 dBm | bc=10 Hz | cbr=0.10 | snr=7.1 dB | reward=-54.73
+11:08:32 [DEBUG] veh110 | pwr=24.0 dBm | bc=5 Hz | cbr=0.11 | snr=5.6 dB | reward=-53.99
+11:08:32 [DEBUG] veh111 | pwr=30.0 dBm | bc=12 Hz | cbr=0.12 | snr=7.5 dB | reward=-52.99
+11:08:32 [DEBUG] veh112 | pwr=28.0 dBm | bc=9 Hz | cbr=0.10 | snr=10.0 dB | reward=-55.28
+11:08:32 [DEBUG] veh113 | pwr=29.0 dBm | bc=9 Hz | cbr=0.11 | snr=10.8 dB | reward=-53.84
+11:08:32 [DEBUG] veh114 | pwr=30.0 dBm | bc=10 Hz | cbr=0.12 | snr=10.8 dB | reward=-52.83
+11:08:32 [DEBUG] veh116 | pwr=30.0 dBm | bc=10 Hz | cbr=0.12 | snr=8.4 dB | reward=-52.83
+11:08:32 [INFO ] [DEBUG] Sent RL response (1365 bytes)
+14:05:05 [INFO ] [BATCH] Received 20 vehicles' data
+14:05:05 [DEBUG] veh0 | pwr=29.0 dBm | bc=12 Hz | cbr=0.07 | snr=17.8 dB | reward=-58.12
+14:05:05 [DEBUG] veh1 | pwr=23.0 dBm | bc=4 Hz | cbr=0.06 | snr=23.4 dB | reward=-59.09
+14:05:05 [DEBUG] veh10 | pwr=27.0 dBm | bc=9 Hz | cbr=0.10 | snr=9.6 dB | reward=-54.90
+14:05:05 [DEBUG] veh100 | pwr=30.0 dBm | bc=16 Hz | cbr=0.11 | snr=3.5 dB | reward=-54.28
+14:05:05 [DEBUG] veh101 | pwr=28.0 dBm | bc=9 Hz | cbr=0.11 | snr=2.9 dB | reward=-53.53
+14:05:05 [DEBUG] veh102 | pwr=29.0 dBm | bc=19 Hz | cbr=0.09 | snr=6.2 dB | reward=-55.97
+14:05:05 [DEBUG] veh103 | pwr=23.0 dBm | bc=4 Hz | cbr=0.09 | snr=7.3 dB | reward=-55.67
+14:05:05 [DEBUG] veh104 | pwr=29.0 dBm | bc=13 Hz | cbr=0.11 | snr=3.0 dB | reward=-53.81
+14:05:05 [DEBUG] veh105 | pwr=23.0 dBm | bc=4 Hz | cbr=0.09 | snr=5.7 dB | reward=-55.72
+14:05:05 [DEBUG] veh106 | pwr=29.0 dBm | bc=11 Hz | cbr=0.12 | snr=3.8 dB | reward=-53.09
+14:05:05 [DEBUG] veh107 | pwr=26.0 dBm | bc=6 Hz | cbr=0.11 | snr=6.3 dB | reward=-54.34
+14:05:05 [DEBUG] veh108 | pwr=27.0 dBm | bc=13 Hz | cbr=0.12 | snr=4.1 dB | reward=-53.19
+14:05:05 [DEBUG] veh109 | pwr=26.0 dBm | bc=6 Hz | cbr=0.11 | snr=5.4 dB | reward=-54.24
+14:05:05 [DEBUG] veh11 | pwr=28.0 dBm | bc=9 Hz | cbr=0.10 | snr=6.6 dB | reward=-54.55
+14:05:05 [DEBUG] veh110 | pwr=23.0 dBm | bc=4 Hz | cbr=0.11 | snr=5.5 dB | reward=-54.09
+14:05:05 [DEBUG] veh111 | pwr=30.0 dBm | bc=13 Hz | cbr=0.12 | snr=7.0 dB | reward=-53.02
+14:05:05 [DEBUG] veh112 | pwr=29.0 dBm | bc=10 Hz | cbr=0.10 | snr=9.4 dB | reward=-55.48
+14:05:05 [DEBUG] veh113 | pwr=30.0 dBm | bc=10 Hz | cbr=0.11 | snr=9.3 dB | reward=-53.73
+14:05:05 [DEBUG] veh114 | pwr=29.0 dBm | bc=9 Hz | cbr=0.11 | snr=10.1 dB | reward=-54.27
+14:05:05 [DEBUG] veh116 | pwr=30.0 dBm | bc=11 Hz | cbr=0.12 | snr=8.3 dB | reward=-53.04
+14:05:05 [INFO ] [DEBUG] Sent RL response (1365 bytes)
+17:05:42 [INFO ] [BATCH] Received 20 vehicles' data
+17:05:42 [DEBUG] veh0 | pwr=28.0 dBm | bc=11 Hz | cbr=0.07 | snr=17.8 dB | reward=-58.12
+17:05:42 [DEBUG] veh1 | pwr=22.0 dBm | bc=3 Hz | cbr=0.06 | snr=23.4 dB | reward=-59.09
+17:05:42 [DEBUG] veh10 | pwr=28.0 dBm | bc=10 Hz | cbr=0.10 | snr=10.2 dB | reward=-55.00
+17:05:42 [DEBUG] veh100 | pwr=29.0 dBm | bc=15 Hz | cbr=0.11 | snr=3.4 dB | reward=-54.43
+17:05:42 [DEBUG] veh101 | pwr=27.0 dBm | bc=8 Hz | cbr=0.11 | snr=2.8 dB | reward=-53.65
+17:05:42 [DEBUG] veh102 | pwr=30.0 dBm | bc=20 Hz | cbr=0.09 | snr=6.2 dB | reward=-56.06
+17:05:42 [DEBUG] veh103 | pwr=22.0 dBm | bc=3 Hz | cbr=0.09 | snr=7.3 dB | reward=-55.67
+17:05:42 [DEBUG] veh104 | pwr=30.0 dBm | bc=14 Hz | cbr=0.11 | snr=2.9 dB | reward=-53.97
+17:05:42 [DEBUG] veh105 | pwr=22.0 dBm | bc=3 Hz | cbr=0.09 | snr=5.7 dB | reward=-55.72
+17:05:42 [DEBUG] veh106 | pwr=28.0 dBm | bc=10 Hz | cbr=0.12 | snr=3.7 dB | reward=-53.25
+17:05:42 [DEBUG] veh107 | pwr=25.0 dBm | bc=5 Hz | cbr=0.11 | snr=6.9 dB | reward=-54.43
+17:05:42 [DEBUG] veh108 | pwr=28.0 dBm | bc=14 Hz | cbr=0.12 | snr=4.2 dB | reward=-53.35
+17:05:42 [DEBUG] veh109 | pwr=25.0 dBm | bc=5 Hz | cbr=0.11 | snr=5.4 dB | reward=-54.33
+17:05:42 [DEBUG] veh11 | pwr=27.0 dBm | bc=8 Hz | cbr=0.10 | snr=6.1 dB | reward=-54.69
+17:05:42 [DEBUG] veh110 | pwr=24.0 dBm | bc=5 Hz | cbr=0.11 | snr=5.4 dB | reward=-54.20
+17:05:42 [DEBUG] veh111 | pwr=29.0 dBm | bc=12 Hz | cbr=0.12 | snr=6.6 dB | reward=-53.04
+17:05:42 [DEBUG] veh112 | pwr=28.0 dBm | bc=9 Hz | cbr=0.09 | snr=8.7 dB | reward=-55.61
+17:05:42 [DEBUG] veh113 | pwr=30.0 dBm | bc=11 Hz | cbr=0.11 | snr=8.2 dB | reward=-53.63
+17:05:42 [DEBUG] veh114 | pwr=28.0 dBm | bc=8 Hz | cbr=0.10 | snr=9.4 dB | reward=-54.84
+17:05:42 [DEBUG] veh116 | pwr=30.0 dBm | bc=12 Hz | cbr=0.11 | snr=8.1 dB | reward=-54.00
+17:05:42 [INFO ] [DEBUG] Sent RL response (1365 bytes)
+19:13:06 [INFO ] [BATCH] Received 22 vehicles' data
+19:13:06 [DEBUG] veh0 | pwr=29.0 dBm | bc=12 Hz | cbr=0.07 | snr=17.8 dB | reward=-58.12
+19:13:06 [DEBUG] veh1 | pwr=23.0 dBm | bc=4 Hz | cbr=0.06 | snr=23.4 dB | reward=-59.09
+19:13:06 [DEBUG] veh10 | pwr=29.0 dBm | bc=11 Hz | cbr=0.10 | snr=10.9 dB | reward=-55.10
+19:13:06 [DEBUG] veh100 | pwr=28.0 dBm | bc=14 Hz | cbr=0.10 | snr=3.3 dB | reward=-54.57
+19:13:06 [DEBUG] veh101 | pwr=28.0 dBm | bc=9 Hz | cbr=0.11 | snr=2.8 dB | reward=-53.78
+19:13:06 [DEBUG] veh102 | pwr=29.0 dBm | bc=19 Hz | cbr=0.09 | snr=7.0 dB | reward=-56.16
+19:13:06 [DEBUG] veh103 | pwr=21.0 dBm | bc=2 Hz | cbr=0.09 | snr=7.3 dB | reward=-55.67
+19:13:06 [DEBUG] veh104 | pwr=30.0 dBm | bc=15 Hz | cbr=0.11 | snr=3.0 dB | reward=-54.13
+19:13:06 [DEBUG] veh105 | pwr=23.0 dBm | bc=4 Hz | cbr=0.09 | snr=5.7 dB | reward=-55.72
+19:13:06 [DEBUG] veh106 | pwr=27.0 dBm | bc=9 Hz | cbr=0.12 | snr=3.8 dB | reward=-53.42
+19:13:06 [DEBUG] veh107 | pwr=26.0 dBm | bc=6 Hz | cbr=0.10 | snr=7.7 dB | reward=-54.54
+19:13:06 [DEBUG] veh108 | pwr=27.0 dBm | bc=13 Hz | cbr=0.11 | snr=4.2 dB | reward=-53.52
+19:13:06 [DEBUG] veh109 | pwr=24.0 dBm | bc=4 Hz | cbr=0.11 | snr=5.4 dB | reward=-54.44
+19:13:06 [DEBUG] veh11 | pwr=26.0 dBm | bc=7 Hz | cbr=0.10 | snr=5.5 dB | reward=-54.58
+19:13:06 [DEBUG] veh110 | pwr=25.0 dBm | bc=6 Hz | cbr=0.11 | snr=5.3 dB | reward=-54.31
+19:13:06 [DEBUG] veh111 | pwr=30.0 dBm | bc=13 Hz | cbr=0.12 | snr=6.1 dB | reward=-52.52
+19:13:06 [DEBUG] veh112 | pwr=29.0 dBm | bc=10 Hz | cbr=0.10 | snr=7.2 dB | reward=-55.20
+19:13:06 [DEBUG] veh113 | pwr=29.0 dBm | bc=10 Hz | cbr=0.11 | snr=7.2 dB | reward=-53.58
+19:13:06 [DEBUG] veh114 | pwr=27.0 dBm | bc=7 Hz | cbr=0.10 | snr=9.7 dB | reward=-55.14
+19:13:06 [DEBUG] veh115 | pwr=30.0 dBm | bc=10 Hz | cbr=0.12 | snr=10.8 dB | reward=-52.83
+19:13:06 [DEBUG] veh116 | pwr=30.0 dBm | bc=13 Hz | cbr=0.11 | snr=8.8 dB | reward=-53.75
+19:13:06 [DEBUG] veh118 | pwr=30.0 dBm | bc=10 Hz | cbr=0.12 | snr=12.9 dB | reward=-52.83
+19:13:06 [INFO ] [DEBUG] Sent RL response (1502 bytes)
+21:16:40 [INFO ] [BATCH] Received 22 vehicles' data
+21:16:40 [DEBUG] veh0 | pwr=28.0 dBm | bc=11 Hz | cbr=0.07 | snr=17.8 dB | reward=-58.12
+21:16:40 [DEBUG] veh1 | pwr=22.0 dBm | bc=3 Hz | cbr=0.06 | snr=23.4 dB | reward=-59.09
+21:16:40 [DEBUG] veh10 | pwr=30.0 dBm | bc=12 Hz | cbr=0.10 | snr=11.7 dB | reward=-55.21
+21:16:40 [DEBUG] veh100 | pwr=29.0 dBm | bc=15 Hz | cbr=0.10 | snr=3.2 dB | reward=-54.70
+21:16:40 [DEBUG] veh101 | pwr=29.0 dBm | bc=10 Hz | cbr=0.11 | snr=2.7 dB | reward=-53.92
+21:16:40 [DEBUG] veh102 | pwr=28.0 dBm | bc=18 Hz | cbr=0.09 | snr=7.7 dB | reward=-56.24
+21:16:40 [DEBUG] veh103 | pwr=20.0 dBm | bc=1 Hz | cbr=0.09 | snr=7.3 dB | reward=-55.67
+21:16:40 [DEBUG] veh104 | pwr=29.0 dBm | bc=14 Hz | cbr=0.11 | snr=3.1 dB | reward=-54.27
+21:16:40 [DEBUG] veh105 | pwr=22.0 dBm | bc=3 Hz | cbr=0.09 | snr=5.7 dB | reward=-55.72
+21:16:40 [DEBUG] veh106 | pwr=26.0 dBm | bc=8 Hz | cbr=0.11 | snr=3.8 dB | reward=-53.56
+21:16:40 [DEBUG] veh107 | pwr=27.0 dBm | bc=7 Hz | cbr=0.10 | snr=8.5 dB | reward=-54.66
+21:16:40 [DEBUG] veh108 | pwr=28.0 dBm | bc=14 Hz | cbr=0.11 | snr=4.0 dB | reward=-53.69
+21:16:40 [DEBUG] veh109 | pwr=23.0 dBm | bc=3 Hz | cbr=0.10 | snr=5.8 dB | reward=-54.50
+21:16:40 [DEBUG] veh11 | pwr=25.0 dBm | bc=6 Hz | cbr=0.10 | snr=5.0 dB | reward=-54.51
+21:16:40 [DEBUG] veh110 | pwr=24.0 dBm | bc=5 Hz | cbr=0.11 | snr=5.3 dB | reward=-54.44
+21:16:40 [DEBUG] veh111 | pwr=29.0 dBm | bc=12 Hz | cbr=0.13 | snr=5.6 dB | reward=-52.16
+21:16:40 [DEBUG] veh112 | pwr=28.0 dBm | bc=9 Hz | cbr=0.10 | snr=6.3 dB | reward=-54.94
+21:16:40 [DEBUG] veh113 | pwr=28.0 dBm | bc=9 Hz | cbr=0.11 | snr=6.6 dB | reward=-53.55
+21:16:40 [DEBUG] veh114 | pwr=28.0 dBm | bc=8 Hz | cbr=0.10 | snr=9.7 dB | reward=-55.36
+21:16:40 [DEBUG] veh115 | pwr=30.0 dBm | bc=11 Hz | cbr=0.12 | snr=11.1 dB | reward=-53.07
+21:16:40 [DEBUG] veh116 | pwr=30.0 dBm | bc=14 Hz | cbr=0.11 | snr=8.9 dB | reward=-53.60
+21:16:40 [DEBUG] veh118 | pwr=30.0 dBm | bc=11 Hz | cbr=0.11 | snr=10.7 dB | reward=-54.41
+21:16:40 [INFO ] [DEBUG] Sent RL response (1503 bytes)
+00:50:39 [INFO ] [BATCH] Received 22 vehicles' data
+00:50:39 [DEBUG] veh0 | pwr=29.0 dBm | bc=12 Hz | cbr=0.07 | snr=17.8 dB | reward=-58.12
+00:50:39 [DEBUG] veh1 | pwr=23.0 dBm | bc=4 Hz | cbr=0.06 | snr=23.4 dB | reward=-59.09
+00:50:39 [DEBUG] veh10 | pwr=30.0 dBm | bc=13 Hz | cbr=0.10 | snr=12.5 dB | reward=-55.32
+00:50:39 [DEBUG] veh100 | pwr=28.0 dBm | bc=14 Hz | cbr=0.10 | snr=3.1 dB | reward=-54.82
+00:50:39 [DEBUG] veh101 | pwr=30.0 dBm | bc=11 Hz | cbr=0.11 | snr=2.6 dB | reward=-54.06
+00:50:39 [DEBUG] veh102 | pwr=27.0 dBm | bc=17 Hz | cbr=0.09 | snr=8.3 dB | reward=-56.32
+00:50:39 [DEBUG] veh103 | pwr=19.0 dBm | bc=1 Hz | cbr=0.09 | snr=7.3 dB | reward=-55.67
+00:50:39 [DEBUG] veh104 | pwr=30.0 dBm | bc=15 Hz | cbr=0.11 | snr=3.3 dB | reward=-54.41
+00:50:39 [DEBUG] veh105 | pwr=23.0 dBm | bc=4 Hz | cbr=0.09 | snr=5.7 dB | reward=-55.72
+00:50:39 [DEBUG] veh106 | pwr=25.0 dBm | bc=7 Hz | cbr=0.11 | snr=4.3 dB | reward=-53.65
+00:50:39 [DEBUG] veh107 | pwr=26.0 dBm | bc=6 Hz | cbr=0.10 | snr=9.1 dB | reward=-54.76
+00:50:39 [DEBUG] veh108 | pwr=27.0 dBm | bc=13 Hz | cbr=0.11 | snr=4.0 dB | reward=-53.85
+00:50:39 [DEBUG] veh109 | pwr=22.0 dBm | bc=2 Hz | cbr=0.10 | snr=6.0 dB | reward=-54.55
+00:50:39 [DEBUG] veh11 | pwr=26.0 dBm | bc=7 Hz | cbr=0.11 | snr=4.6 dB | reward=-54.43
+00:50:39 [DEBUG] veh110 | pwr=25.0 dBm | bc=6 Hz | cbr=0.10 | snr=5.4 dB | reward=-54.58
+00:50:39 [DEBUG] veh111 | pwr=30.0 dBm | bc=13 Hz | cbr=0.13 | snr=5.0 dB | reward=-51.84
+00:50:39 [DEBUG] veh112 | pwr=29.0 dBm | bc=10 Hz | cbr=0.10 | snr=5.8 dB | reward=-54.72
+00:50:39 [DEBUG] veh113 | pwr=27.0 dBm | bc=8 Hz | cbr=0.11 | snr=6.2 dB | reward=-53.53
+00:50:39 [DEBUG] veh114 | pwr=29.0 dBm | bc=9 Hz | cbr=0.09 | snr=9.1 dB | reward=-55.53
+00:50:39 [DEBUG] veh115 | pwr=29.0 dBm | bc=10 Hz | cbr=0.11 | snr=10.4 dB | reward=-53.94
+00:50:39 [DEBUG] veh116 | pwr=30.0 dBm | bc=15 Hz | cbr=0.12 | snr=8.9 dB | reward=-53.49
+00:50:39 [DEBUG] veh118 | pwr=30.0 dBm | bc=12 Hz | cbr=0.10 | snr=9.2 dB | reward=-55.04
+00:50:39 [INFO ] [DEBUG] Sent RL response (1503 bytes)
+02:17:08 [INFO ] [BATCH] Received 24 vehicles' data
+02:17:08 [DEBUG] veh0 | pwr=28.0 dBm | bc=11 Hz | cbr=0.07 | snr=17.8 dB | reward=-58.12
+02:17:08 [DEBUG] veh1 | pwr=22.0 dBm | bc=3 Hz | cbr=0.06 | snr=23.4 dB | reward=-59.09
+02:17:08 [DEBUG] veh10 | pwr=29.0 dBm | bc=12 Hz | cbr=0.10 | snr=13.2 dB | reward=-55.42
+02:17:08 [DEBUG] veh100 | pwr=29.0 dBm | bc=15 Hz | cbr=0.10 | snr=3.1 dB | reward=-54.94
+02:17:08 [DEBUG] veh101 | pwr=29.0 dBm | bc=10 Hz | cbr=0.11 | snr=3.3 dB | reward=-54.15
+02:17:08 [DEBUG] veh102 | pwr=28.0 dBm | bc=18 Hz | cbr=0.09 | snr=9.0 dB | reward=-56.41
+02:17:08 [DEBUG] veh103 | pwr=20.0 dBm | bc=2 Hz | cbr=0.09 | snr=7.5 dB | reward=-55.69
+02:17:08 [DEBUG] veh104 | pwr=30.0 dBm | bc=16 Hz | cbr=0.10 | snr=3.5 dB | reward=-54.55
+02:17:08 [DEBUG] veh105 | pwr=24.0 dBm | bc=5 Hz | cbr=0.09 | snr=5.7 dB | reward=-55.72
+02:17:08 [DEBUG] veh106 | pwr=24.0 dBm | bc=6 Hz | cbr=0.11 | snr=4.3 dB | reward=-53.65
+02:17:08 [DEBUG] veh107 | pwr=25.0 dBm | bc=5 Hz | cbr=0.10 | snr=9.7 dB | reward=-54.85
+02:17:08 [DEBUG] veh108 | pwr=26.0 dBm | bc=12 Hz | cbr=0.11 | snr=3.9 dB | reward=-53.98
+02:17:08 [DEBUG] veh109 | pwr=21.0 dBm | bc=1 Hz | cbr=0.10 | snr=6.0 dB | reward=-54.55
+02:17:08 [DEBUG] veh11 | pwr=25.0 dBm | bc=6 Hz | cbr=0.10 | snr=4.8 dB | reward=-54.56
+02:17:08 [DEBUG] veh110 | pwr=24.0 dBm | bc=5 Hz | cbr=0.10 | snr=5.6 dB | reward=-54.69
+02:17:08 [DEBUG] veh111 | pwr=30.0 dBm | bc=14 Hz | cbr=0.14 | snr=3.9 dB | reward=-51.32
+02:17:08 [DEBUG] veh112 | pwr=28.0 dBm | bc=9 Hz | cbr=0.11 | snr=5.3 dB | reward=-54.05
+02:17:08 [DEBUG] veh113 | pwr=26.0 dBm | bc=7 Hz | cbr=0.11 | snr=5.5 dB | reward=-53.52
+02:17:08 [DEBUG] veh114 | pwr=30.0 dBm | bc=10 Hz | cbr=0.10 | snr=7.9 dB | reward=-55.08
+02:17:08 [DEBUG] veh115 | pwr=30.0 dBm | bc=11 Hz | cbr=0.11 | snr=9.5 dB | reward=-53.76
+02:17:08 [DEBUG] veh116 | pwr=29.0 dBm | bc=14 Hz | cbr=0.12 | snr=7.7 dB | reward=-53.43
+02:17:08 [DEBUG] veh117 | pwr=30.0 dBm | bc=10 Hz | cbr=0.12 | snr=10.4 dB | reward=-52.83
+02:17:08 [DEBUG] veh118 | pwr=29.0 dBm | bc=11 Hz | cbr=0.10 | snr=9.2 dB | reward=-54.52
+02:17:08 [DEBUG] veh119 | pwr=30.0 dBm | bc=10 Hz | cbr=0.12 | snr=11.0 dB | reward=-52.83
+02:17:08 [INFO ] [DEBUG] Sent RL response (1638 bytes)
+04:20:53 [INFO ] [BATCH] Received 24 vehicles' data
+04:20:53 [DEBUG] veh0 | pwr=29.0 dBm | bc=12 Hz | cbr=0.07 | snr=17.8 dB | reward=-58.12
+04:20:53 [DEBUG] veh1 | pwr=23.0 dBm | bc=4 Hz | cbr=0.06 | snr=23.4 dB | reward=-59.09
+04:20:53 [DEBUG] veh10 | pwr=30.0 dBm | bc=13 Hz | cbr=0.09 | snr=14.0 dB | reward=-55.52
+04:20:53 [DEBUG] veh100 | pwr=30.0 dBm | bc=16 Hz | cbr=0.10 | snr=3.1 dB | reward=-55.06
+04:20:53 [DEBUG] veh101 | pwr=28.0 dBm | bc=9 Hz | cbr=0.11 | snr=3.9 dB | reward=-54.24
+04:20:53 [DEBUG] veh102 | pwr=29.0 dBm | bc=19 Hz | cbr=0.09 | snr=9.7 dB | reward=-56.49
+04:20:53 [DEBUG] veh103 | pwr=19.0 dBm | bc=1 Hz | cbr=0.09 | snr=7.6 dB | reward=-55.71
+04:20:53 [DEBUG] veh104 | pwr=29.0 dBm | bc=15 Hz | cbr=0.10 | snr=3.7 dB | reward=-54.67
+04:20:53 [DEBUG] veh105 | pwr=23.0 dBm | bc=4 Hz | cbr=0.09 | snr=5.7 dB | reward=-55.72
+04:20:53 [DEBUG] veh106 | pwr=23.0 dBm | bc=5 Hz | cbr=0.11 | snr=4.3 dB | reward=-53.65
+04:20:53 [DEBUG] veh107 | pwr=24.0 dBm | bc=4 Hz | cbr=0.10 | snr=10.1 dB | reward=-54.91
+04:20:53 [DEBUG] veh108 | pwr=27.0 dBm | bc=13 Hz | cbr=0.11 | snr=3.9 dB | reward=-54.11
+04:20:53 [DEBUG] veh109 | pwr=20.0 dBm | bc=1 Hz | cbr=0.10 | snr=6.0 dB | reward=-54.55
+04:20:53 [DEBUG] veh11 | pwr=24.0 dBm | bc=5 Hz | cbr=0.10 | snr=5.0 dB | reward=-54.67
+04:20:53 [DEBUG] veh110 | pwr=25.0 dBm | bc=6 Hz | cbr=0.10 | snr=5.7 dB | reward=-54.82
+04:20:53 [DEBUG] veh111 | pwr=30.0 dBm | bc=15 Hz | cbr=0.14 | snr=3.3 dB | reward=-51.11
+04:20:53 [DEBUG] veh112 | pwr=27.0 dBm | bc=8 Hz | cbr=0.11 | snr=4.7 dB | reward=-53.99
+04:20:53 [DEBUG] veh113 | pwr=25.0 dBm | bc=6 Hz | cbr=0.11 | snr=5.5 dB | reward=-53.66
+04:20:53 [DEBUG] veh114 | pwr=29.0 dBm | bc=9 Hz | cbr=0.10 | snr=7.1 dB | reward=-54.82
+04:20:53 [DEBUG] veh115 | pwr=29.0 dBm | bc=10 Hz | cbr=0.11 | snr=8.9 dB | reward=-53.66
+04:20:53 [DEBUG] veh116 | pwr=30.0 dBm | bc=15 Hz | cbr=0.12 | snr=7.1 dB | reward=-53.38
+04:20:53 [DEBUG] veh117 | pwr=30.0 dBm | bc=11 Hz | cbr=0.12 | snr=9.7 dB | reward=-53.07
+04:20:53 [DEBUG] veh118 | pwr=30.0 dBm | bc=12 Hz | cbr=0.11 | snr=8.3 dB | reward=-54.20
+04:20:53 [DEBUG] veh119 | pwr=29.0 dBm | bc=9 Hz | cbr=0.11 | snr=10.3 dB | reward=-54.27
+04:20:53 [INFO ] [DEBUG] Sent RL response (1638 bytes)
+06:25:51 [INFO ] [BATCH] Received 24 vehicles' data
+06:25:51 [DEBUG] veh0 | pwr=28.0 dBm | bc=11 Hz | cbr=0.07 | snr=17.8 dB | reward=-58.12
+06:25:51 [DEBUG] veh1 | pwr=22.0 dBm | bc=3 Hz | cbr=0.06 | snr=23.4 dB | reward=-59.09
+06:25:51 [DEBUG] veh10 | pwr=29.0 dBm | bc=12 Hz | cbr=0.09 | snr=14.7 dB | reward=-55.62
+06:25:51 [DEBUG] veh100 | pwr=29.0 dBm | bc=15 Hz | cbr=0.10 | snr=3.1 dB | reward=-55.16
+06:25:51 [DEBUG] veh101 | pwr=27.0 dBm | bc=8 Hz | cbr=0.11 | snr=3.9 dB | reward=-54.24
+06:25:51 [DEBUG] veh102 | pwr=28.0 dBm | bc=18 Hz | cbr=0.08 | snr=10.3 dB | reward=-56.56
+06:25:51 [DEBUG] veh103 | pwr=18.0 dBm | bc=1 Hz | cbr=0.09 | snr=7.7 dB | reward=-55.72
+06:25:51 [DEBUG] veh104 | pwr=30.0 dBm | bc=16 Hz | cbr=0.10 | snr=3.9 dB | reward=-54.79
+06:25:51 [DEBUG] veh105 | pwr=22.0 dBm | bc=3 Hz | cbr=0.09 | snr=5.7 dB | reward=-55.72
+06:25:51 [DEBUG] veh106 | pwr=22.0 dBm | bc=4 Hz | cbr=0.11 | snr=4.3 dB | reward=-53.65
+06:25:51 [DEBUG] veh107 | pwr=23.0 dBm | bc=3 Hz | cbr=0.10 | snr=10.1 dB | reward=-54.91
+06:25:51 [DEBUG] veh108 | pwr=26.0 dBm | bc=12 Hz | cbr=0.11 | snr=3.9 dB | reward=-54.23
+06:25:51 [DEBUG] veh109 | pwr=21.0 dBm | bc=2 Hz | cbr=0.10 | snr=6.0 dB | reward=-54.55
+06:25:51 [DEBUG] veh11 | pwr=23.0 dBm | bc=4 Hz | cbr=0.10 | snr=5.5 dB | reward=-54.74
+06:25:51 [DEBUG] veh110 | pwr=24.0 dBm | bc=5 Hz | cbr=0.10 | snr=6.3 dB | reward=-54.91
+06:25:51 [DEBUG] veh111 | pwr=30.0 dBm | bc=16 Hz | cbr=0.14 | snr=3.3 dB | reward=-51.40
+06:25:51 [DEBUG] veh112 | pwr=28.0 dBm | bc=9 Hz | cbr=0.11 | snr=4.2 dB | reward=-53.92
+06:25:51 [DEBUG] veh113 | pwr=26.0 dBm | bc=7 Hz | cbr=0.11 | snr=5.6 dB | reward=-53.80
+06:25:51 [DEBUG] veh114 | pwr=28.0 dBm | bc=8 Hz | cbr=0.10 | snr=6.5 dB | reward=-54.64
+06:25:51 [DEBUG] veh115 | pwr=28.0 dBm | bc=9 Hz | cbr=0.11 | snr=8.3 dB | reward=-53.98
+06:25:51 [DEBUG] veh116 | pwr=30.0 dBm | bc=16 Hz | cbr=0.12 | snr=6.6 dB | reward=-53.33
+06:25:51 [DEBUG] veh117 | pwr=29.0 dBm | bc=10 Hz | cbr=0.11 | snr=8.6 dB | reward=-53.93
+06:25:51 [DEBUG] veh118 | pwr=30.0 dBm | bc=13 Hz | cbr=0.10 | snr=7.9 dB | reward=-54.53
+06:25:51 [DEBUG] veh119 | pwr=30.0 dBm | bc=10 Hz | cbr=0.10 | snr=9.8 dB | reward=-54.92
+06:25:51 [INFO ] [DEBUG] Sent RL response (1638 bytes)
+08:56:39 [INFO ] [BATCH] Received 26 vehicles' data
+08:56:39 [DEBUG] veh0 | pwr=29.0 dBm | bc=12 Hz | cbr=0.07 | snr=17.8 dB | reward=-58.12
+08:56:39 [DEBUG] veh1 | pwr=23.0 dBm | bc=4 Hz | cbr=0.06 | snr=23.4 dB | reward=-59.09
+08:56:39 [DEBUG] veh10 | pwr=30.0 dBm | bc=13 Hz | cbr=0.09 | snr=15.4 dB | reward=-55.71
+08:56:39 [DEBUG] veh100 | pwr=30.0 dBm | bc=16 Hz | cbr=0.10 | snr=3.2 dB | reward=-55.26
+08:56:39 [DEBUG] veh101 | pwr=26.0 dBm | bc=7 Hz | cbr=0.11 | snr=3.9 dB | reward=-54.24
+08:56:39 [DEBUG] veh102 | pwr=27.0 dBm | bc=17 Hz | cbr=0.08 | snr=11.0 dB | reward=-56.64
+08:56:39 [DEBUG] veh103 | pwr=19.0 dBm | bc=2 Hz | cbr=0.09 | snr=8.0 dB | reward=-55.74
+08:56:39 [DEBUG] veh104 | pwr=29.0 dBm | bc=15 Hz | cbr=0.10 | snr=4.1 dB | reward=-54.90
+08:56:39 [DEBUG] veh105 | pwr=23.0 dBm | bc=4 Hz | cbr=0.09 | snr=5.7 dB | reward=-55.72
+08:56:39 [DEBUG] veh106 | pwr=23.0 dBm | bc=5 Hz | cbr=0.11 | snr=4.3 dB | reward=-53.65
+08:56:39 [DEBUG] veh107 | pwr=22.0 dBm | bc=2 Hz | cbr=0.10 | snr=10.1 dB | reward=-54.91
+08:56:39 [DEBUG] veh108 | pwr=27.0 dBm | bc=13 Hz | cbr=0.11 | snr=3.9 dB | reward=-54.35
+08:56:39 [DEBUG] veh109 | pwr=20.0 dBm | bc=1 Hz | cbr=0.10 | snr=6.0 dB | reward=-54.55
+08:56:39 [DEBUG] veh11 | pwr=24.0 dBm | bc=5 Hz | cbr=0.10 | snr=5.7 dB | reward=-54.84
+08:56:39 [DEBUG] veh110 | pwr=23.0 dBm | bc=4 Hz | cbr=0.10 | snr=6.8 dB | reward=-54.97
+08:56:39 [DEBUG] veh111 | pwr=29.0 dBm | bc=15 Hz | cbr=0.13 | snr=3.3 dB | reward=-51.65
+08:56:39 [DEBUG] veh112 | pwr=27.0 dBm | bc=8 Hz | cbr=0.11 | snr=4.1 dB | reward=-54.06
+08:56:39 [DEBUG] veh113 | pwr=27.0 dBm | bc=8 Hz | cbr=0.11 | snr=5.6 dB | reward=-53.95
+08:56:39 [DEBUG] veh114 | pwr=27.0 dBm | bc=7 Hz | cbr=0.10 | snr=5.7 dB | reward=-54.52
+08:56:39 [DEBUG] veh115 | pwr=29.0 dBm | bc=10 Hz | cbr=0.11 | snr=7.2 dB | reward=-53.88
+08:56:39 [DEBUG] veh116 | pwr=29.0 dBm | bc=15 Hz | cbr=0.12 | snr=6.0 dB | reward=-52.78
+08:56:39 [DEBUG] veh117 | pwr=28.0 dBm | bc=9 Hz | cbr=0.11 | snr=8.6 dB | reward=-53.78
+08:56:39 [DEBUG] veh118 | pwr=30.0 dBm | bc=14 Hz | cbr=0.11 | snr=7.1 dB | reward=-54.26
+08:56:39 [DEBUG] veh119 | pwr=30.0 dBm | bc=11 Hz | cbr=0.11 | snr=8.3 dB | reward=-54.39
+08:56:39 [DEBUG] veh12 | pwr=30.0 dBm | bc=10 Hz | cbr=0.12 | snr=8.8 dB | reward=-52.83
+08:56:39 [DEBUG] veh120 | pwr=30.0 dBm | bc=10 Hz | cbr=0.12 | snr=9.4 dB | reward=-52.83
+08:56:39 [INFO ] [DEBUG] Sent RL response (1774 bytes)
+11:14:24 [INFO ] [BATCH] Received 26 vehicles' data
+11:14:24 [DEBUG] veh0 | pwr=28.0 dBm | bc=11 Hz | cbr=0.07 | snr=17.8 dB | reward=-58.12
+11:14:24 [DEBUG] veh1 | pwr=22.0 dBm | bc=3 Hz | cbr=0.06 | snr=23.4 dB | reward=-59.09
+11:14:24 [DEBUG] veh10 | pwr=30.0 dBm | bc=14 Hz | cbr=0.09 | snr=16.2 dB | reward=-55.82
+11:14:24 [DEBUG] veh100 | pwr=30.0 dBm | bc=17 Hz | cbr=0.10 | snr=3.3 dB | reward=-55.36
+11:14:24 [DEBUG] veh101 | pwr=27.0 dBm | bc=8 Hz | cbr=0.11 | snr=3.9 dB | reward=-54.24
+11:14:24 [DEBUG] veh102 | pwr=26.0 dBm | bc=16 Hz | cbr=0.08 | snr=11.6 dB | reward=-56.70
+11:14:24 [DEBUG] veh103 | pwr=20.0 dBm | bc=3 Hz | cbr=0.09 | snr=8.3 dB | reward=-55.78
+11:14:24 [DEBUG] veh104 | pwr=28.0 dBm | bc=14 Hz | cbr=0.10 | snr=4.3 dB | reward=-54.99
+11:14:24 [DEBUG] veh105 | pwr=24.0 dBm | bc=5 Hz | cbr=0.09 | snr=6.4 dB | reward=-55.80
+11:14:24 [DEBUG] veh106 | pwr=22.0 dBm | bc=4 Hz | cbr=0.11 | snr=4.3 dB | reward=-53.65
+11:14:24 [DEBUG] veh107 | pwr=23.0 dBm | bc=3 Hz | cbr=0.10 | snr=10.1 dB | reward=-54.91
+11:14:24 [DEBUG] veh108 | pwr=28.0 dBm | bc=14 Hz | cbr=0.11 | snr=3.9 dB | reward=-54.47
+11:14:24 [DEBUG] veh109 | pwr=19.0 dBm | bc=1 Hz | cbr=0.10 | snr=6.0 dB | reward=-54.55
+11:14:24 [DEBUG] veh11 | pwr=23.0 dBm | bc=4 Hz | cbr=0.10 | snr=6.1 dB | reward=-54.90
+11:14:24 [DEBUG] veh110 | pwr=24.0 dBm | bc=5 Hz | cbr=0.10 | snr=7.4 dB | reward=-55.05
+11:14:24 [DEBUG] veh111 | pwr=30.0 dBm | bc=16 Hz | cbr=0.13 | snr=3.4 dB | reward=-51.89
+11:14:24 [DEBUG] veh112 | pwr=26.0 dBm | bc=7 Hz | cbr=0.11 | snr=4.3 dB | reward=-54.21
+11:14:24 [DEBUG] veh113 | pwr=26.0 dBm | bc=7 Hz | cbr=0.11 | snr=5.5 dB | reward=-54.11
+11:14:24 [DEBUG] veh114 | pwr=28.0 dBm | bc=8 Hz | cbr=0.11 | snr=5.0 dB | reward=-54.41
+11:14:24 [DEBUG] veh115 | pwr=28.0 dBm | bc=9 Hz | cbr=0.11 | snr=6.6 dB | reward=-53.81
+11:14:24 [DEBUG] veh116 | pwr=28.0 dBm | bc=14 Hz | cbr=0.12 | snr=5.4 dB | reward=-52.81
+11:14:24 [DEBUG] veh117 | pwr=29.0 dBm | bc=10 Hz | cbr=0.11 | snr=8.2 dB | reward=-54.20
+11:14:24 [DEBUG] veh118 | pwr=29.0 dBm | bc=13 Hz | cbr=0.11 | snr=6.7 dB | reward=-54.10
+11:14:24 [DEBUG] veh119 | pwr=30.0 dBm | bc=12 Hz | cbr=0.11 | snr=7.1 dB | reward=-54.09
+11:14:24 [DEBUG] veh12 | pwr=29.0 dBm | bc=9 Hz | cbr=0.11 | snr=7.9 dB | reward=-54.25
+11:14:24 [DEBUG] veh120 | pwr=30.0 dBm | bc=11 Hz | cbr=0.11 | snr=8.5 dB | reward=-54.39
+11:14:24 [INFO ] [DEBUG] Sent RL response (1775 bytes)
+13:06:07 [INFO ] [BATCH] Received 26 vehicles' data
+13:06:07 [DEBUG] veh0 | pwr=29.0 dBm | bc=12 Hz | cbr=0.07 | snr=17.8 dB | reward=-58.12
+13:06:07 [DEBUG] veh1 | pwr=23.0 dBm | bc=4 Hz | cbr=0.06 | snr=23.4 dB | reward=-59.09
+13:06:07 [DEBUG] veh10 | pwr=29.0 dBm | bc=13 Hz | cbr=0.09 | snr=16.9 dB | reward=-55.91
+13:06:07 [DEBUG] veh100 | pwr=29.0 dBm | bc=16 Hz | cbr=0.10 | snr=3.3 dB | reward=-55.45
+13:06:07 [DEBUG] veh101 | pwr=26.0 dBm | bc=7 Hz | cbr=0.11 | snr=3.9 dB | reward=-54.24
+13:06:07 [DEBUG] veh102 | pwr=27.0 dBm | bc=17 Hz | cbr=0.08 | snr=12.2 dB | reward=-56.77
+13:06:07 [DEBUG] veh103 | pwr=19.0 dBm | bc=2 Hz | cbr=0.09 | snr=8.5 dB | reward=-55.81
+13:06:07 [DEBUG] veh104 | pwr=27.0 dBm | bc=13 Hz | cbr=0.10 | snr=4.9 dB | reward=-55.07
+13:06:07 [DEBUG] veh105 | pwr=25.0 dBm | bc=6 Hz | cbr=0.09 | snr=7.2 dB | reward=-55.90
+13:06:07 [DEBUG] veh106 | pwr=23.0 dBm | bc=5 Hz | cbr=0.11 | snr=4.3 dB | reward=-53.65
+13:06:07 [DEBUG] veh107 | pwr=22.0 dBm | bc=2 Hz | cbr=0.10 | snr=10.1 dB | reward=-54.91
+13:06:07 [DEBUG] veh108 | pwr=29.0 dBm | bc=15 Hz | cbr=0.10 | snr=3.8 dB | reward=-54.60
+13:06:07 [DEBUG] veh109 | pwr=20.0 dBm | bc=2 Hz | cbr=0.10 | snr=6.0 dB | reward=-54.55
+13:06:07 [DEBUG] veh11 | pwr=24.0 dBm | bc=5 Hz | cbr=0.10 | snr=6.7 dB | reward=-54.98
+13:06:07 [DEBUG] veh110 | pwr=23.0 dBm | bc=4 Hz | cbr=0.10 | snr=7.9 dB | reward=-55.12
+13:06:07 [DEBUG] veh111 | pwr=29.0 dBm | bc=15 Hz | cbr=0.13 | snr=3.6 dB | reward=-52.11
+13:06:07 [DEBUG] veh112 | pwr=27.0 dBm | bc=8 Hz | cbr=0.11 | snr=4.4 dB | reward=-54.36
+13:06:07 [DEBUG] veh113 | pwr=27.0 dBm | bc=8 Hz | cbr=0.11 | snr=5.4 dB | reward=-54.28
+13:06:07 [DEBUG] veh114 | pwr=27.0 dBm | bc=7 Hz | cbr=0.11 | snr=4.4 dB | reward=-54.33
+13:06:07 [DEBUG] veh115 | pwr=29.0 dBm | bc=10 Hz | cbr=0.11 | snr=6.0 dB | reward=-53.75
+13:06:07 [DEBUG] veh116 | pwr=27.0 dBm | bc=13 Hz | cbr=0.12 | snr=4.8 dB | reward=-52.84
+13:06:07 [DEBUG] veh117 | pwr=28.0 dBm | bc=9 Hz | cbr=0.11 | snr=7.7 dB | reward=-54.48
+13:06:07 [DEBUG] veh118 | pwr=30.0 dBm | bc=14 Hz | cbr=0.11 | snr=6.2 dB | reward=-53.96
+13:06:07 [DEBUG] veh119 | pwr=29.0 dBm | bc=11 Hz | cbr=0.11 | snr=6.4 dB | reward=-54.42
+13:06:07 [DEBUG] veh12 | pwr=30.0 dBm | bc=10 Hz | cbr=0.10 | snr=7.0 dB | reward=-54.89
+13:06:07 [DEBUG] veh120 | pwr=30.0 dBm | bc=12 Hz | cbr=0.10 | snr=7.6 dB | reward=-55.00
+13:06:07 [INFO ] [DEBUG] Sent RL response (1775 bytes)
+15:30:09 [INFO ] [BATCH] Received 28 vehicles' data
+15:30:09 [DEBUG] veh0 | pwr=28.0 dBm | bc=11 Hz | cbr=0.07 | snr=17.8 dB | reward=-58.12
+15:30:09 [DEBUG] veh1 | pwr=22.0 dBm | bc=3 Hz | cbr=0.06 | snr=23.4 dB | reward=-59.09
+15:30:09 [DEBUG] veh10 | pwr=30.0 dBm | bc=14 Hz | cbr=0.09 | snr=17.6 dB | reward=-56.00
+15:30:09 [DEBUG] veh100 | pwr=30.0 dBm | bc=17 Hz | cbr=0.09 | snr=3.4 dB | reward=-55.54
+15:30:09 [DEBUG] veh101 | pwr=27.0 dBm | bc=8 Hz | cbr=0.11 | snr=3.9 dB | reward=-54.24
+15:30:09 [DEBUG] veh102 | pwr=28.0 dBm | bc=18 Hz | cbr=0.08 | snr=13.0 dB | reward=-56.84
+15:30:09 [DEBUG] veh103 | pwr=20.0 dBm | bc=3 Hz | cbr=0.09 | snr=8.9 dB | reward=-55.84
+15:30:09 [DEBUG] veh104 | pwr=26.0 dBm | bc=12 Hz | cbr=0.10 | snr=5.4 dB | reward=-55.14
+15:30:09 [DEBUG] veh105 | pwr=24.0 dBm | bc=5 Hz | cbr=0.09 | snr=7.8 dB | reward=-55.98
+15:30:09 [DEBUG] veh106 | pwr=22.0 dBm | bc=4 Hz | cbr=0.11 | snr=4.3 dB | reward=-53.65
+15:30:09 [DEBUG] veh107 | pwr=23.0 dBm | bc=3 Hz | cbr=0.10 | snr=10.1 dB | reward=-54.91
+15:30:09 [DEBUG] veh108 | pwr=30.0 dBm | bc=16 Hz | cbr=0.10 | snr=3.8 dB | reward=-54.71
+15:30:09 [DEBUG] veh109 | pwr=19.0 dBm | bc=1 Hz | cbr=0.10 | snr=6.0 dB | reward=-54.55
+15:30:09 [DEBUG] veh11 | pwr=23.0 dBm | bc=4 Hz | cbr=0.10 | snr=6.7 dB | reward=-54.98
+15:30:09 [DEBUG] veh110 | pwr=24.0 dBm | bc=5 Hz | cbr=0.10 | snr=8.4 dB | reward=-55.20
+15:30:09 [DEBUG] veh111 | pwr=28.0 dBm | bc=14 Hz | cbr=0.13 | snr=3.6 dB | reward=-52.30
+15:30:09 [DEBUG] veh112 | pwr=28.0 dBm | bc=9 Hz | cbr=0.10 | snr=4.5 dB | reward=-54.53
+15:30:09 [DEBUG] veh113 | pwr=26.0 dBm | bc=7 Hz | cbr=0.11 | snr=5.4 dB | reward=-54.42
+15:30:09 [DEBUG] veh114 | pwr=26.0 dBm | bc=6 Hz | cbr=0.11 | snr=4.4 dB | reward=-54.43
+15:30:09 [DEBUG] veh115 | pwr=30.0 dBm | bc=11 Hz | cbr=0.12 | snr=5.3 dB | reward=-53.15
+15:30:09 [DEBUG] veh116 | pwr=28.0 dBm | bc=14 Hz | cbr=0.12 | snr=4.4 dB | reward=-52.85
+15:30:09 [DEBUG] veh117 | pwr=27.0 dBm | bc=8 Hz | cbr=0.11 | snr=6.9 dB | reward=-54.33
+15:30:09 [DEBUG] veh118 | pwr=29.0 dBm | bc=13 Hz | cbr=0.11 | snr=5.3 dB | reward=-53.87
+15:30:09 [DEBUG] veh119 | pwr=30.0 dBm | bc=12 Hz | cbr=0.11 | snr=5.7 dB | reward=-54.20
+15:30:09 [DEBUG] veh12 | pwr=30.0 dBm | bc=11 Hz | cbr=0.11 | snr=7.2 dB | reward=-54.37
+15:30:09 [DEBUG] veh120 | pwr=29.0 dBm | bc=11 Hz | cbr=0.11 | snr=7.8 dB | reward=-54.49
+15:30:09 [DEBUG] veh121 | pwr=30.0 dBm | bc=10 Hz | cbr=0.12 | snr=10.5 dB | reward=-52.83
+15:30:09 [DEBUG] veh122 | pwr=30.0 dBm | bc=10 Hz | cbr=0.12 | snr=10.9 dB | reward=-52.83
+15:30:09 [INFO ] [DEBUG] Sent RL response (1913 bytes)
+17:50:01 [INFO ] [BATCH] Received 28 vehicles' data
+17:50:01 [DEBUG] veh0 | pwr=29.0 dBm | bc=12 Hz | cbr=0.07 | snr=17.8 dB | reward=-58.12
+17:50:01 [DEBUG] veh1 | pwr=23.0 dBm | bc=4 Hz | cbr=0.06 | snr=23.4 dB | reward=-59.09
+17:50:01 [DEBUG] veh10 | pwr=29.0 dBm | bc=13 Hz | cbr=0.09 | snr=18.2 dB | reward=-56.09
+17:50:01 [DEBUG] veh100 | pwr=29.0 dBm | bc=16 Hz | cbr=0.09 | snr=3.5 dB | reward=-55.62
+17:50:01 [DEBUG] veh101 | pwr=26.0 dBm | bc=7 Hz | cbr=0.11 | snr=3.9 dB | reward=-54.24
+17:50:01 [DEBUG] veh102 | pwr=27.0 dBm | bc=17 Hz | cbr=0.08 | snr=13.7 dB | reward=-56.90
+17:50:01 [DEBUG] veh103 | pwr=19.0 dBm | bc=2 Hz | cbr=0.09 | snr=9.2 dB | reward=-55.87
+17:50:01 [DEBUG] veh104 | pwr=27.0 dBm | bc=13 Hz | cbr=0.10 | snr=5.9 dB | reward=-55.21
+17:50:01 [DEBUG] veh105 | pwr=25.0 dBm | bc=6 Hz | cbr=0.09 | snr=8.6 dB | reward=-56.08
+17:50:01 [DEBUG] veh106 | pwr=23.0 dBm | bc=5 Hz | cbr=0.11 | snr=4.3 dB | reward=-53.65
+17:50:01 [DEBUG] veh107 | pwr=22.0 dBm | bc=2 Hz | cbr=0.10 | snr=10.1 dB | reward=-54.91
+17:50:01 [DEBUG] veh108 | pwr=30.0 dBm | bc=17 Hz | cbr=0.10 | snr=3.8 dB | reward=-54.83
+17:50:01 [DEBUG] veh109 | pwr=18.0 dBm | bc=1 Hz | cbr=0.10 | snr=6.0 dB | reward=-54.55
+17:50:01 [DEBUG] veh11 | pwr=24.0 dBm | bc=5 Hz | cbr=0.10 | snr=6.7 dB | reward=-54.98
+17:50:01 [DEBUG] veh110 | pwr=23.0 dBm | bc=4 Hz | cbr=0.10 | snr=8.4 dB | reward=-55.20
+17:50:01 [DEBUG] veh111 | pwr=27.0 dBm | bc=13 Hz | cbr=0.13 | snr=3.7 dB | reward=-52.47
+17:50:01 [DEBUG] veh112 | pwr=29.0 dBm | bc=10 Hz | cbr=0.10 | snr=4.5 dB | reward=-54.69
+17:50:01 [DEBUG] veh113 | pwr=25.0 dBm | bc=6 Hz | cbr=0.10 | snr=5.4 dB | reward=-54.53
+17:50:01 [DEBUG] veh114 | pwr=25.0 dBm | bc=5 Hz | cbr=0.10 | snr=4.4 dB | reward=-54.55
+17:50:01 [DEBUG] veh115 | pwr=30.0 dBm | bc=12 Hz | cbr=0.12 | snr=4.7 dB | reward=-52.65
+17:50:01 [DEBUG] veh116 | pwr=29.0 dBm | bc=15 Hz | cbr=0.12 | snr=4.2 dB | reward=-53.04
+17:50:01 [DEBUG] veh117 | pwr=26.0 dBm | bc=7 Hz | cbr=0.10 | snr=6.8 dB | reward=-54.50
+17:50:01 [DEBUG] veh118 | pwr=28.0 dBm | bc=12 Hz | cbr=0.11 | snr=4.7 dB | reward=-53.81
+17:50:01 [DEBUG] veh119 | pwr=30.0 dBm | bc=13 Hz | cbr=0.11 | snr=5.3 dB | reward=-54.03
+17:50:01 [DEBUG] veh12 | pwr=30.0 dBm | bc=12 Hz | cbr=0.11 | snr=6.6 dB | reward=-54.08
+17:50:01 [DEBUG] veh120 | pwr=28.0 dBm | bc=10 Hz | cbr=0.10 | snr=7.0 dB | reward=-54.79
+17:50:01 [DEBUG] veh121 | pwr=29.0 dBm | bc=9 Hz | cbr=0.11 | snr=9.0 dB | reward=-54.27
+17:50:01 [DEBUG] veh122 | pwr=30.0 dBm | bc=11 Hz | cbr=0.12 | snr=10.2 dB | reward=-53.07
+17:50:01 [INFO ] [DEBUG] Sent RL response (1911 bytes)
+19:42:12 [INFO ] [BATCH] Received 28 vehicles' data
+19:42:12 [DEBUG] veh0 | pwr=28.0 dBm | bc=11 Hz | cbr=0.07 | snr=17.8 dB | reward=-58.12
+19:42:12 [DEBUG] veh1 | pwr=22.0 dBm | bc=3 Hz | cbr=0.06 | snr=23.4 dB | reward=-59.09
+19:42:12 [DEBUG] veh10 | pwr=30.0 dBm | bc=14 Hz | cbr=0.09 | snr=18.9 dB | reward=-56.18
+19:42:12 [DEBUG] veh100 | pwr=28.0 dBm | bc=15 Hz | cbr=0.09 | snr=4.2 dB | reward=-55.70
+19:42:12 [DEBUG] veh101 | pwr=27.0 dBm | bc=8 Hz | cbr=0.11 | snr=3.9 dB | reward=-54.24
+19:42:12 [DEBUG] veh102 | pwr=28.0 dBm | bc=18 Hz | cbr=0.08 | snr=14.6 dB | reward=-56.97
+19:42:12 [DEBUG] veh103 | pwr=20.0 dBm | bc=3 Hz | cbr=0.09 | snr=9.6 dB | reward=-55.91
+19:42:12 [DEBUG] veh104 | pwr=26.0 dBm | bc=12 Hz | cbr=0.10 | snr=6.4 dB | reward=-55.28
+19:42:12 [DEBUG] veh105 | pwr=24.0 dBm | bc=5 Hz | cbr=0.09 | snr=9.2 dB | reward=-56.15
+19:42:12 [DEBUG] veh106 | pwr=22.0 dBm | bc=4 Hz | cbr=0.11 | snr=4.3 dB | reward=-53.65
+19:42:12 [DEBUG] veh107 | pwr=23.0 dBm | bc=3 Hz | cbr=0.10 | snr=10.1 dB | reward=-54.91
+19:42:12 [DEBUG] veh108 | pwr=29.0 dBm | bc=16 Hz | cbr=0.10 | snr=3.8 dB | reward=-54.94
+19:42:12 [DEBUG] veh109 | pwr=19.0 dBm | bc=2 Hz | cbr=0.10 | snr=6.0 dB | reward=-54.55
+19:42:12 [DEBUG] veh11 | pwr=23.0 dBm | bc=4 Hz | cbr=0.10 | snr=6.7 dB | reward=-54.98
+19:42:12 [DEBUG] veh110 | pwr=24.0 dBm | bc=5 Hz | cbr=0.10 | snr=9.0 dB | reward=-55.27
+19:42:12 [DEBUG] veh111 | pwr=28.0 dBm | bc=14 Hz | cbr=0.12 | snr=3.7 dB | reward=-52.64
+19:42:12 [DEBUG] veh112 | pwr=28.0 dBm | bc=9 Hz | cbr=0.10 | snr=4.6 dB | reward=-54.83
+19:42:12 [DEBUG] veh113 | pwr=26.0 dBm | bc=7 Hz | cbr=0.10 | snr=5.4 dB | reward=-54.65
+19:42:12 [DEBUG] veh114 | pwr=24.0 dBm | bc=4 Hz | cbr=0.10 | snr=5.0 dB | reward=-54.62
+19:42:12 [DEBUG] veh115 | pwr=29.0 dBm | bc=11 Hz | cbr=0.12 | snr=4.2 dB | reward=-52.70
+19:42:12 [DEBUG] veh116 | pwr=30.0 dBm | bc=16 Hz | cbr=0.12 | snr=4.1 dB | reward=-53.22
+19:42:12 [DEBUG] veh117 | pwr=25.0 dBm | bc=6 Hz | cbr=0.10 | snr=6.7 dB | reward=-54.63
+19:42:12 [DEBUG] veh118 | pwr=27.0 dBm | bc=11 Hz | cbr=0.11 | snr=4.1 dB | reward=-53.76
+19:42:12 [DEBUG] veh119 | pwr=30.0 dBm | bc=14 Hz | cbr=0.11 | snr=5.1 dB | reward=-53.90
+19:42:12 [DEBUG] veh12 | pwr=29.0 dBm | bc=11 Hz | cbr=0.11 | snr=5.8 dB | reward=-54.40
+19:42:12 [DEBUG] veh120 | pwr=27.0 dBm | bc=9 Hz | cbr=0.10 | snr=6.4 dB | reward=-54.99
+19:42:12 [DEBUG] veh121 | pwr=28.0 dBm | bc=8 Hz | cbr=0.10 | snr=8.0 dB | reward=-54.83
+19:42:12 [DEBUG] veh122 | pwr=29.0 dBm | bc=10 Hz | cbr=0.11 | snr=8.2 dB | reward=-53.94
+19:42:12 [INFO ] [DEBUG] Sent RL response (1910 bytes)
+21:23:29 [INFO ] [BATCH] Received 30 vehicles' data
+21:23:29 [DEBUG] veh0 | pwr=29.0 dBm | bc=12 Hz | cbr=0.07 | snr=17.8 dB | reward=-58.12
+21:23:29 [DEBUG] veh1 | pwr=23.0 dBm | bc=4 Hz | cbr=0.06 | snr=23.4 dB | reward=-59.09
+21:23:29 [DEBUG] veh10 | pwr=29.0 dBm | bc=13 Hz | cbr=0.09 | snr=19.5 dB | reward=-56.26
+21:23:29 [DEBUG] veh100 | pwr=29.0 dBm | bc=16 Hz | cbr=0.09 | snr=4.3 dB | reward=-55.77
+21:23:29 [DEBUG] veh101 | pwr=26.0 dBm | bc=7 Hz | cbr=0.11 | snr=3.9 dB | reward=-54.24
+21:23:29 [DEBUG] veh102 | pwr=29.0 dBm | bc=19 Hz | cbr=0.08 | snr=15.4 dB | reward=-57.03
+21:23:29 [DEBUG] veh103 | pwr=19.0 dBm | bc=2 Hz | cbr=0.09 | snr=9.9 dB | reward=-55.93
+21:23:29 [DEBUG] veh104 | pwr=27.0 dBm | bc=13 Hz | cbr=0.10 | snr=7.0 dB | reward=-55.35
+21:23:29 [DEBUG] veh105 | pwr=25.0 dBm | bc=6 Hz | cbr=0.09 | snr=9.9 dB | reward=-56.24
+21:23:29 [DEBUG] veh106 | pwr=23.0 dBm | bc=5 Hz | cbr=0.11 | snr=4.6 dB | reward=-53.71
+21:23:29 [DEBUG] veh107 | pwr=22.0 dBm | bc=2 Hz | cbr=0.10 | snr=10.1 dB | reward=-54.91
+21:23:29 [DEBUG] veh108 | pwr=28.0 dBm | bc=15 Hz | cbr=0.10 | snr=3.8 dB | reward=-55.03
+21:23:29 [DEBUG] veh109 | pwr=18.0 dBm | bc=1 Hz | cbr=0.10 | snr=6.0 dB | reward=-54.55
+21:23:29 [DEBUG] veh11 | pwr=22.0 dBm | bc=3 Hz | cbr=0.10 | snr=6.7 dB | reward=-54.98
+21:23:29 [DEBUG] veh110 | pwr=25.0 dBm | bc=6 Hz | cbr=0.10 | snr=9.6 dB | reward=-55.36
+21:23:29 [DEBUG] veh111 | pwr=29.0 dBm | bc=15 Hz | cbr=0.12 | snr=3.7 dB | reward=-52.81
+21:23:29 [DEBUG] veh112 | pwr=27.0 dBm | bc=8 Hz | cbr=0.10 | snr=4.6 dB | reward=-54.95
+21:23:29 [DEBUG] veh113 | pwr=25.0 dBm | bc=6 Hz | cbr=0.10 | snr=6.0 dB | reward=-54.74
+21:23:29 [DEBUG] veh114 | pwr=25.0 dBm | bc=5 Hz | cbr=0.10 | snr=5.0 dB | reward=-54.73
+21:23:29 [DEBUG] veh115 | pwr=28.0 dBm | bc=10 Hz | cbr=0.13 | snr=3.8 dB | reward=-52.40
+21:23:29 [DEBUG] veh116 | pwr=29.0 dBm | bc=15 Hz | cbr=0.12 | snr=4.0 dB | reward=-53.37
+21:23:29 [DEBUG] veh117 | pwr=24.0 dBm | bc=5 Hz | cbr=0.10 | snr=6.1 dB | reward=-54.55
+21:23:29 [DEBUG] veh118 | pwr=26.0 dBm | bc=10 Hz | cbr=0.11 | snr=4.1 dB | reward=-53.89
+21:23:29 [DEBUG] veh119 | pwr=29.0 dBm | bc=13 Hz | cbr=0.12 | snr=4.8 dB | reward=-53.23
+21:23:29 [DEBUG] veh12 | pwr=30.0 dBm | bc=12 Hz | cbr=0.11 | snr=4.6 dB | reward=-54.19
+21:23:29 [DEBUG] veh120 | pwr=26.0 dBm | bc=8 Hz | cbr=0.10 | snr=5.6 dB | reward=-54.78
+21:23:29 [DEBUG] veh121 | pwr=27.0 dBm | bc=7 Hz | cbr=0.10 | snr=7.8 dB | reward=-55.13
+21:23:29 [DEBUG] veh122 | pwr=28.0 dBm | bc=9 Hz | cbr=0.11 | snr=8.8 dB | reward=-53.79
+21:23:29 [DEBUG] veh123 | pwr=30.0 dBm | bc=10 Hz | cbr=0.12 | snr=11.9 dB | reward=-52.83
+21:23:29 [DEBUG] veh124 | pwr=30.0 dBm | bc=10 Hz | cbr=0.12 | snr=8.1 dB | reward=-52.83
+21:23:29 [INFO ] [DEBUG] Sent RL response (2046 bytes)
+23:19:55 [INFO ] [BATCH] Received 30 vehicles' data
+23:19:55 [DEBUG] veh0 | pwr=28.0 dBm | bc=11 Hz | cbr=0.07 | snr=17.8 dB | reward=-58.12
+23:19:55 [DEBUG] veh1 | pwr=22.0 dBm | bc=3 Hz | cbr=0.06 | snr=23.4 dB | reward=-59.09
+23:19:55 [DEBUG] veh10 | pwr=30.0 dBm | bc=14 Hz | cbr=0.09 | snr=20.2 dB | reward=-56.34
+23:19:55 [DEBUG] veh100 | pwr=28.0 dBm | bc=15 Hz | cbr=0.09 | snr=5.1 dB | reward=-55.84
+23:19:55 [DEBUG] veh101 | pwr=27.0 dBm | bc=8 Hz | cbr=0.11 | snr=3.9 dB | reward=-54.24
+23:19:55 [DEBUG] veh102 | pwr=28.0 dBm | bc=18 Hz | cbr=0.08 | snr=16.0 dB | reward=-57.10
+23:19:55 [DEBUG] veh103 | pwr=18.0 dBm | bc=1 Hz | cbr=0.09 | snr=10.0 dB | reward=-55.94
+23:19:55 [DEBUG] veh104 | pwr=26.0 dBm | bc=12 Hz | cbr=0.10 | snr=7.4 dB | reward=-55.42
+23:19:55 [DEBUG] veh105 | pwr=24.0 dBm | bc=5 Hz | cbr=0.09 | snr=10.5 dB | reward=-56.31
+23:19:55 [DEBUG] veh106 | pwr=22.0 dBm | bc=4 Hz | cbr=0.11 | snr=4.9 dB | reward=-53.76
+23:19:55 [DEBUG] veh107 | pwr=23.0 dBm | bc=3 Hz | cbr=0.10 | snr=10.1 dB | reward=-54.91
+23:19:55 [DEBUG] veh108 | pwr=27.0 dBm | bc=14 Hz | cbr=0.10 | snr=3.9 dB | reward=-55.12
+23:19:55 [DEBUG] veh109 | pwr=17.0 dBm | bc=1 Hz | cbr=0.10 | snr=6.0 dB | reward=-54.55
+23:19:55 [DEBUG] veh11 | pwr=23.0 dBm | bc=4 Hz | cbr=0.10 | snr=6.7 dB | reward=-54.98
+23:19:55 [DEBUG] veh110 | pwr=26.0 dBm | bc=7 Hz | cbr=0.10 | snr=10.3 dB | reward=-55.46
+23:19:55 [DEBUG] veh111 | pwr=30.0 dBm | bc=16 Hz | cbr=0.12 | snr=3.6 dB | reward=-52.98
+23:19:55 [DEBUG] veh112 | pwr=28.0 dBm | bc=9 Hz | cbr=0.10 | snr=4.7 dB | reward=-55.08
+23:19:55 [DEBUG] veh113 | pwr=24.0 dBm | bc=5 Hz | cbr=0.10 | snr=6.0 dB | reward=-54.74
+23:19:55 [DEBUG] veh114 | pwr=24.0 dBm | bc=4 Hz | cbr=0.10 | snr=5.0 dB | reward=-54.73
+23:19:55 [DEBUG] veh115 | pwr=29.0 dBm | bc=11 Hz | cbr=0.13 | snr=3.3 dB | reward=-52.13
+23:19:55 [DEBUG] veh116 | pwr=28.0 dBm | bc=14 Hz | cbr=0.11 | snr=4.1 dB | reward=-53.54
+23:19:55 [DEBUG] veh117 | pwr=23.0 dBm | bc=4 Hz | cbr=0.10 | snr=6.2 dB | reward=-54.63
+23:19:55 [DEBUG] veh118 | pwr=25.0 dBm | bc=9 Hz | cbr=0.11 | snr=4.3 dB | reward=-54.04
+23:19:55 [DEBUG] veh119 | pwr=30.0 dBm | bc=14 Hz | cbr=0.12 | snr=4.8 dB | reward=-52.69
+23:19:55 [DEBUG] veh12 | pwr=30.0 dBm | bc=13 Hz | cbr=0.11 | snr=3.7 dB | reward=-54.01
+23:19:55 [DEBUG] veh120 | pwr=27.0 dBm | bc=9 Hz | cbr=0.10 | snr=5.3 dB | reward=-54.59
+23:19:55 [DEBUG] veh121 | pwr=26.0 dBm | bc=6 Hz | cbr=0.10 | snr=7.1 dB | reward=-55.32
+23:19:55 [DEBUG] veh122 | pwr=29.0 dBm | bc=10 Hz | cbr=0.11 | snr=8.5 dB | reward=-53.68
+23:19:55 [DEBUG] veh123 | pwr=29.0 dBm | bc=9 Hz | cbr=0.12 | snr=11.5 dB | reward=-53.08
+23:19:55 [DEBUG] veh124 | pwr=29.0 dBm | bc=9 Hz | cbr=0.11 | snr=5.7 dB | reward=-54.25
+23:19:55 [INFO ] [DEBUG] Sent RL response (2047 bytes)
+00:53:43 [INFO ] [BATCH] Received 30 vehicles' data
+00:53:43 [DEBUG] veh0 | pwr=29.0 dBm | bc=12 Hz | cbr=0.07 | snr=17.8 dB | reward=-58.12
+00:53:43 [DEBUG] veh1 | pwr=23.0 dBm | bc=4 Hz | cbr=0.06 | snr=23.4 dB | reward=-59.09
+00:53:43 [DEBUG] veh10 | pwr=30.0 dBm | bc=15 Hz | cbr=0.09 | snr=20.9 dB | reward=-56.43
+00:53:43 [DEBUG] veh100 | pwr=29.0 dBm | bc=16 Hz | cbr=0.09 | snr=5.2 dB | reward=-55.90
+00:53:43 [DEBUG] veh101 | pwr=26.0 dBm | bc=7 Hz | cbr=0.11 | snr=3.9 dB | reward=-54.24
+00:53:43 [DEBUG] veh102 | pwr=29.0 dBm | bc=19 Hz | cbr=0.08 | snr=15.7 dB | reward=-57.14
+00:53:43 [DEBUG] veh103 | pwr=17.0 dBm | bc=1 Hz | cbr=0.09 | snr=10.1 dB | reward=-55.95
+00:53:43 [DEBUG] veh104 | pwr=25.0 dBm | bc=11 Hz | cbr=0.10 | snr=7.9 dB | reward=-55.48
+00:53:43 [DEBUG] veh105 | pwr=25.0 dBm | bc=6 Hz | cbr=0.09 | snr=11.1 dB | reward=-56.39
+00:53:43 [DEBUG] veh106 | pwr=23.0 dBm | bc=5 Hz | cbr=0.11 | snr=5.2 dB | reward=-53.82
+00:53:43 [DEBUG] veh107 | pwr=22.0 dBm | bc=2 Hz | cbr=0.10 | snr=10.1 dB | reward=-54.91
+00:53:43 [DEBUG] veh108 | pwr=26.0 dBm | bc=13 Hz | cbr=0.10 | snr=4.4 dB | reward=-55.19
+00:53:43 [DEBUG] veh109 | pwr=16.0 dBm | bc=1 Hz | cbr=0.10 | snr=6.0 dB | reward=-54.55
+00:53:43 [DEBUG] veh11 | pwr=22.0 dBm | bc=3 Hz | cbr=0.10 | snr=6.7 dB | reward=-54.98
+00:53:43 [DEBUG] veh110 | pwr=27.0 dBm | bc=8 Hz | cbr=0.09 | snr=11.2 dB | reward=-55.57
+00:53:43 [DEBUG] veh111 | pwr=30.0 dBm | bc=17 Hz | cbr=0.12 | snr=3.6 dB | reward=-53.15
+00:53:43 [DEBUG] veh112 | pwr=27.0 dBm | bc=8 Hz | cbr=0.10 | snr=5.3 dB | reward=-55.17
+00:53:43 [DEBUG] veh113 | pwr=25.0 dBm | bc=6 Hz | cbr=0.10 | snr=6.6 dB | reward=-54.82
+00:53:43 [DEBUG] veh114 | pwr=25.0 dBm | bc=5 Hz | cbr=0.10 | snr=5.6 dB | reward=-54.82
+00:53:43 [DEBUG] veh115 | pwr=28.0 dBm | bc=10 Hz | cbr=0.13 | snr=3.2 dB | reward=-52.32
+00:53:43 [DEBUG] veh116 | pwr=27.0 dBm | bc=13 Hz | cbr=0.11 | snr=4.2 dB | reward=-53.68
+00:53:43 [DEBUG] veh117 | pwr=24.0 dBm | bc=5 Hz | cbr=0.10 | snr=6.1 dB | reward=-54.71
+00:53:43 [DEBUG] veh118 | pwr=26.0 dBm | bc=10 Hz | cbr=0.11 | snr=4.4 dB | reward=-54.19
+00:53:43 [DEBUG] veh119 | pwr=29.0 dBm | bc=13 Hz | cbr=0.12 | snr=4.3 dB | reward=-52.73
+00:53:43 [DEBUG] veh12 | pwr=30.0 dBm | bc=14 Hz | cbr=0.11 | snr=3.0 dB | reward=-53.87
+00:53:43 [DEBUG] veh120 | pwr=28.0 dBm | bc=10 Hz | cbr=0.11 | snr=5.1 dB | reward=-54.42
+00:53:43 [DEBUG] veh121 | pwr=25.0 dBm | bc=5 Hz | cbr=0.10 | snr=6.6 dB | reward=-55.44
+00:53:43 [DEBUG] veh122 | pwr=28.0 dBm | bc=9 Hz | cbr=0.11 | snr=7.9 dB | reward=-54.01
+00:53:43 [DEBUG] veh123 | pwr=28.0 dBm | bc=8 Hz | cbr=0.11 | snr=10.4 dB | reward=-53.88
+00:53:43 [DEBUG] veh124 | pwr=28.0 dBm | bc=8 Hz | cbr=0.10 | snr=4.5 dB | reward=-54.82
+00:53:43 [INFO ] [DEBUG] Sent RL response (2047 bytes)
+02:01:57 [INFO ] [BATCH] Received 32 vehicles' data
+02:01:57 [DEBUG] veh0 | pwr=28.0 dBm | bc=11 Hz | cbr=0.07 | snr=17.8 dB | reward=-58.12
+02:01:57 [DEBUG] veh1 | pwr=22.0 dBm | bc=3 Hz | cbr=0.06 | snr=23.4 dB | reward=-59.09
+02:01:57 [DEBUG] veh10 | pwr=30.0 dBm | bc=16 Hz | cbr=0.08 | snr=21.6 dB | reward=-56.52
+02:01:57 [DEBUG] veh100 | pwr=28.0 dBm | bc=15 Hz | cbr=0.09 | snr=5.9 dB | reward=-55.97
+02:01:57 [DEBUG] veh101 | pwr=27.0 dBm | bc=8 Hz | cbr=0.11 | snr=3.9 dB | reward=-54.24
+02:01:57 [DEBUG] veh102 | pwr=28.0 dBm | bc=18 Hz | cbr=0.08 | snr=16.2 dB | reward=-57.20
+02:01:57 [DEBUG] veh103 | pwr=18.0 dBm | bc=2 Hz | cbr=0.09 | snr=10.3 dB | reward=-55.98
+02:01:57 [DEBUG] veh104 | pwr=24.0 dBm | bc=10 Hz | cbr=0.09 | snr=8.3 dB | reward=-55.53
+02:01:57 [DEBUG] veh105 | pwr=26.0 dBm | bc=7 Hz | cbr=0.09 | snr=11.9 dB | reward=-56.49
+02:01:57 [DEBUG] veh106 | pwr=24.0 dBm | bc=6 Hz | cbr=0.11 | snr=5.6 dB | reward=-53.90
+02:01:57 [DEBUG] veh107 | pwr=23.0 dBm | bc=3 Hz | cbr=0.10 | snr=10.1 dB | reward=-54.91
+02:01:57 [DEBUG] veh108 | pwr=25.0 dBm | bc=12 Hz | cbr=0.10 | snr=4.4 dB | reward=-55.19
+02:01:57 [DEBUG] veh109 | pwr=17.0 dBm | bc=2 Hz | cbr=0.10 | snr=6.0 dB | reward=-54.55
+02:01:57 [DEBUG] veh11 | pwr=21.0 dBm | bc=2 Hz | cbr=0.10 | snr=6.7 dB | reward=-54.98
+02:01:57 [DEBUG] veh110 | pwr=28.0 dBm | bc=9 Hz | cbr=0.09 | snr=11.1 dB | reward=-55.70
+02:01:57 [DEBUG] veh111 | pwr=29.0 dBm | bc=16 Hz | cbr=0.12 | snr=3.5 dB | reward=-53.30
+02:01:57 [DEBUG] veh112 | pwr=26.0 dBm | bc=7 Hz | cbr=0.10 | snr=5.9 dB | reward=-55.25
+02:01:57 [DEBUG] veh113 | pwr=24.0 dBm | bc=5 Hz | cbr=0.10 | snr=6.6 dB | reward=-54.82
+02:01:57 [DEBUG] veh114 | pwr=24.0 dBm | bc=4 Hz | cbr=0.10 | snr=5.6 dB | reward=-54.82
+02:01:57 [DEBUG] veh115 | pwr=27.0 dBm | bc=9 Hz | cbr=0.13 | snr=3.1 dB | reward=-52.49
+02:01:57 [DEBUG] veh116 | pwr=26.0 dBm | bc=12 Hz | cbr=0.11 | snr=4.8 dB | reward=-53.79
+02:01:57 [DEBUG] veh117 | pwr=25.0 dBm | bc=6 Hz | cbr=0.10 | snr=6.0 dB | reward=-54.81
+02:01:57 [DEBUG] veh118 | pwr=27.0 dBm | bc=11 Hz | cbr=0.11 | snr=4.6 dB | reward=-54.34
+02:01:57 [DEBUG] veh119 | pwr=28.0 dBm | bc=12 Hz | cbr=0.12 | snr=3.8 dB | reward=-52.76
+02:01:57 [DEBUG] veh12 | pwr=29.0 dBm | bc=13 Hz | cbr=0.12 | snr=2.4 dB | reward=-53.20
+02:01:57 [DEBUG] veh120 | pwr=29.0 dBm | bc=11 Hz | cbr=0.11 | snr=4.7 dB | reward=-53.69
+02:01:57 [DEBUG] veh121 | pwr=26.0 dBm | bc=6 Hz | cbr=0.10 | snr=5.6 dB | reward=-55.15
+02:01:57 [DEBUG] veh122 | pwr=29.0 dBm | bc=10 Hz | cbr=0.11 | snr=6.6 dB | reward=-53.90
+02:01:57 [DEBUG] veh123 | pwr=27.0 dBm | bc=7 Hz | cbr=0.11 | snr=9.9 dB | reward=-53.78
+02:01:57 [DEBUG] veh124 | pwr=27.0 dBm | bc=7 Hz | cbr=0.10 | snr=5.3 dB | reward=-55.11
+02:01:57 [DEBUG] veh125 | pwr=30.0 dBm | bc=10 Hz | cbr=0.12 | snr=8.0 dB | reward=-52.83
+02:01:57 [DEBUG] veh127 | pwr=30.0 dBm | bc=10 Hz | cbr=0.12 | snr=11.4 dB | reward=-52.83
+02:01:57 [INFO ] [DEBUG] Sent RL response (2181 bytes)
+03:36:10 [INFO ] [BATCH] Received 32 vehicles' data
+03:36:10 [DEBUG] veh0 | pwr=29.0 dBm | bc=12 Hz | cbr=0.07 | snr=18.7 dB | reward=-58.22
+03:36:10 [DEBUG] veh1 | pwr=21.0 dBm | bc=2 Hz | cbr=0.06 | snr=23.4 dB | reward=-59.09
+03:36:10 [DEBUG] veh10 | pwr=29.0 dBm | bc=15 Hz | cbr=0.08 | snr=22.2 dB | reward=-56.60
+03:36:10 [DEBUG] veh100 | pwr=27.0 dBm | bc=14 Hz | cbr=0.09 | snr=6.5 dB | reward=-56.03
+03:36:10 [DEBUG] veh101 | pwr=26.0 dBm | bc=7 Hz | cbr=0.11 | snr=3.9 dB | reward=-54.24
+03:36:10 [DEBUG] veh102 | pwr=27.0 dBm | bc=17 Hz | cbr=0.08 | snr=16.6 dB | reward=-57.25
+03:36:10 [DEBUG] veh103 | pwr=17.0 dBm | bc=1 Hz | cbr=0.09 | snr=10.4 dB | reward=-55.99
+03:36:10 [DEBUG] veh104 | pwr=23.0 dBm | bc=9 Hz | cbr=0.09 | snr=8.7 dB | reward=-55.58
+03:36:10 [DEBUG] veh105 | pwr=27.0 dBm | bc=8 Hz | cbr=0.08 | snr=12.6 dB | reward=-56.59
+03:36:10 [DEBUG] veh106 | pwr=25.0 dBm | bc=7 Hz | cbr=0.11 | snr=6.1 dB | reward=-53.98
+03:36:10 [DEBUG] veh107 | pwr=24.0 dBm | bc=4 Hz | cbr=0.10 | snr=10.1 dB | reward=-54.91
+03:36:10 [DEBUG] veh108 | pwr=24.0 dBm | bc=11 Hz | cbr=0.10 | snr=4.4 dB | reward=-55.19
+03:36:10 [DEBUG] veh109 | pwr=18.0 dBm | bc=3 Hz | cbr=0.10 | snr=6.5 dB | reward=-54.61
+03:36:10 [DEBUG] veh11 | pwr=20.0 dBm | bc=1 Hz | cbr=0.10 | snr=6.7 dB | reward=-54.98
+03:36:10 [DEBUG] veh110 | pwr=27.0 dBm | bc=8 Hz | cbr=0.09 | snr=11.9 dB | reward=-55.80
+03:36:10 [DEBUG] veh111 | pwr=30.0 dBm | bc=17 Hz | cbr=0.12 | snr=3.4 dB | reward=-53.45
+03:36:10 [DEBUG] veh112 | pwr=25.0 dBm | bc=6 Hz | cbr=0.10 | snr=5.9 dB | reward=-55.25
+03:36:10 [DEBUG] veh113 | pwr=25.0 dBm | bc=6 Hz | cbr=0.10 | snr=7.1 dB | reward=-54.90
+03:36:10 [DEBUG] veh114 | pwr=25.0 dBm | bc=5 Hz | cbr=0.10 | snr=5.6 dB | reward=-54.82
+03:36:10 [DEBUG] veh115 | pwr=26.0 dBm | bc=8 Hz | cbr=0.12 | snr=3.7 dB | reward=-52.59
+03:36:10 [DEBUG] veh116 | pwr=25.0 dBm | bc=11 Hz | cbr=0.11 | snr=4.8 dB | reward=-53.79
+03:36:10 [DEBUG] veh117 | pwr=24.0 dBm | bc=5 Hz | cbr=0.10 | snr=6.1 dB | reward=-54.93
+03:36:10 [DEBUG] veh118 | pwr=26.0 dBm | bc=10 Hz | cbr=0.11 | snr=4.7 dB | reward=-54.48
+03:36:10 [DEBUG] veh119 | pwr=27.0 dBm | bc=11 Hz | cbr=0.12 | snr=3.8 dB | reward=-52.94
+03:36:10 [DEBUG] veh12 | pwr=30.0 dBm | bc=14 Hz | cbr=0.12 | snr=2.1 dB | reward=-52.66
+03:36:10 [DEBUG] veh120 | pwr=28.0 dBm | bc=10 Hz | cbr=0.12 | snr=4.5 dB | reward=-53.18
+03:36:10 [DEBUG] veh121 | pwr=25.0 dBm | bc=5 Hz | cbr=0.10 | snr=5.4 dB | reward=-55.27
+03:36:10 [DEBUG] veh122 | pwr=28.0 dBm | bc=9 Hz | cbr=0.11 | snr=5.9 dB | reward=-53.83
+03:36:10 [DEBUG] veh123 | pwr=26.0 dBm | bc=6 Hz | cbr=0.11 | snr=9.0 dB | reward=-54.11
+03:36:10 [DEBUG] veh124 | pwr=26.0 dBm | bc=6 Hz | cbr=0.10 | snr=5.3 dB | reward=-55.30
+03:36:10 [DEBUG] veh125 | pwr=29.0 dBm | bc=9 Hz | cbr=0.11 | snr=6.0 dB | reward=-54.25
+03:36:10 [DEBUG] veh127 | pwr=29.0 dBm | bc=9 Hz | cbr=0.11 | snr=8.4 dB | reward=-54.27
+03:36:10 [INFO ] [DEBUG] Sent RL response (2181 bytes)
+04:47:53 [INFO ] [BATCH] Received 32 vehicles' data
+04:47:53 [DEBUG] veh0 | pwr=30.0 dBm | bc=13 Hz | cbr=0.07 | snr=20.0 dB | reward=-58.32
+04:47:53 [DEBUG] veh1 | pwr=22.0 dBm | bc=3 Hz | cbr=0.06 | snr=24.3 dB | reward=-59.14
+04:47:53 [DEBUG] veh10 | pwr=30.0 dBm | bc=16 Hz | cbr=0.08 | snr=22.9 dB | reward=-56.68
+04:47:53 [DEBUG] veh100 | pwr=26.0 dBm | bc=13 Hz | cbr=0.09 | snr=7.1 dB | reward=-56.08
+04:47:53 [DEBUG] veh101 | pwr=27.0 dBm | bc=8 Hz | cbr=0.11 | snr=4.3 dB | reward=-54.32
+04:47:53 [DEBUG] veh102 | pwr=28.0 dBm | bc=18 Hz | cbr=0.08 | snr=17.0 dB | reward=-57.30
+04:47:53 [DEBUG] veh103 | pwr=16.0 dBm | bc=1 Hz | cbr=0.09 | snr=10.4 dB | reward=-55.99
+04:47:53 [DEBUG] veh104 | pwr=24.0 dBm | bc=10 Hz | cbr=0.09 | snr=9.1 dB | reward=-55.63
+04:47:53 [DEBUG] veh105 | pwr=28.0 dBm | bc=9 Hz | cbr=0.08 | snr=13.5 dB | reward=-56.70
+04:47:53 [DEBUG] veh106 | pwr=24.0 dBm | bc=6 Hz | cbr=0.11 | snr=6.5 dB | reward=-54.05
+04:47:53 [DEBUG] veh107 | pwr=23.0 dBm | bc=3 Hz | cbr=0.10 | snr=10.1 dB | reward=-54.91
+04:47:53 [DEBUG] veh108 | pwr=25.0 dBm | bc=12 Hz | cbr=0.10 | snr=4.4 dB | reward=-55.19
+04:47:53 [DEBUG] veh109 | pwr=17.0 dBm | bc=2 Hz | cbr=0.10 | snr=6.7 dB | reward=-54.65
+04:47:53 [DEBUG] veh11 | pwr=19.0 dBm | bc=1 Hz | cbr=0.10 | snr=6.7 dB | reward=-54.98
+04:47:53 [DEBUG] veh110 | pwr=28.0 dBm | bc=9 Hz | cbr=0.09 | snr=11.8 dB | reward=-55.91
+04:47:53 [DEBUG] veh111 | pwr=29.0 dBm | bc=16 Hz | cbr=0.11 | snr=3.4 dB | reward=-53.58
+04:47:53 [DEBUG] veh112 | pwr=24.0 dBm | bc=5 Hz | cbr=0.10 | snr=5.9 dB | reward=-55.25
+04:47:53 [DEBUG] veh113 | pwr=26.0 dBm | bc=7 Hz | cbr=0.10 | snr=7.8 dB | reward=-54.99
+04:47:53 [DEBUG] veh114 | pwr=24.0 dBm | bc=4 Hz | cbr=0.10 | snr=5.6 dB | reward=-54.82
+04:47:53 [DEBUG] veh115 | pwr=25.0 dBm | bc=7 Hz | cbr=0.12 | snr=4.2 dB | reward=-52.69
+04:47:53 [DEBUG] veh116 | pwr=24.0 dBm | bc=10 Hz | cbr=0.11 | snr=4.8 dB | reward=-53.79
+04:47:53 [DEBUG] veh117 | pwr=23.0 dBm | bc=4 Hz | cbr=0.10 | snr=6.1 dB | reward=-55.02
+04:47:53 [DEBUG] veh118 | pwr=25.0 dBm | bc=9 Hz | cbr=0.10 | snr=5.4 dB | reward=-54.57
+04:47:53 [DEBUG] veh119 | pwr=26.0 dBm | bc=10 Hz | cbr=0.12 | snr=4.0 dB | reward=-53.11
+04:47:53 [DEBUG] veh12 | pwr=30.0 dBm | bc=15 Hz | cbr=0.13 | snr=1.9 dB | reward=-52.22
+04:47:53 [DEBUG] veh120 | pwr=27.0 dBm | bc=9 Hz | cbr=0.12 | snr=4.0 dB | reward=-53.19
+04:47:53 [DEBUG] veh121 | pwr=24.0 dBm | bc=4 Hz | cbr=0.10 | snr=5.4 dB | reward=-55.34
+04:47:53 [DEBUG] veh122 | pwr=29.0 dBm | bc=10 Hz | cbr=0.11 | snr=5.3 dB | reward=-53.76
+04:47:53 [DEBUG] veh123 | pwr=25.0 dBm | bc=5 Hz | cbr=0.11 | snr=8.2 dB | reward=-54.34
+04:47:53 [DEBUG] veh124 | pwr=25.0 dBm | bc=5 Hz | cbr=0.10 | snr=5.0 dB | reward=-55.43
+04:47:53 [DEBUG] veh125 | pwr=28.0 dBm | bc=8 Hz | cbr=0.10 | snr=4.6 dB | reward=-54.82
+04:47:53 [DEBUG] veh127 | pwr=28.0 dBm | bc=8 Hz | cbr=0.10 | snr=6.6 dB | reward=-54.83
+04:47:53 [INFO ] [DEBUG] Sent RL response (2179 bytes)
+05:43:47 [INFO ] [BATCH] Received 34 vehicles' data
+05:43:47 [DEBUG] veh0 | pwr=29.0 dBm | bc=12 Hz | cbr=0.07 | snr=19.2 dB | reward=-58.35
+05:43:47 [DEBUG] veh1 | pwr=23.0 dBm | bc=4 Hz | cbr=0.06 | snr=25.0 dB | reward=-59.21
+05:43:47 [DEBUG] veh10 | pwr=30.0 dBm | bc=17 Hz | cbr=0.08 | snr=22.7 dB | reward=-56.75
+05:43:47 [DEBUG] veh100 | pwr=25.0 dBm | bc=12 Hz | cbr=0.09 | snr=7.6 dB | reward=-56.13
+05:43:47 [DEBUG] veh101 | pwr=26.0 dBm | bc=7 Hz | cbr=0.11 | snr=4.3 dB | reward=-54.32
+05:43:47 [DEBUG] veh102 | pwr=27.0 dBm | bc=17 Hz | cbr=0.08 | snr=17.4 dB | reward=-57.36
+05:43:47 [DEBUG] veh103 | pwr=15.0 dBm | bc=1 Hz | cbr=0.09 | snr=10.4 dB | reward=-55.99
+05:43:47 [DEBUG] veh104 | pwr=23.0 dBm | bc=9 Hz | cbr=0.09 | snr=9.4 dB | reward=-55.67
+05:43:47 [DEBUG] veh105 | pwr=29.0 dBm | bc=10 Hz | cbr=0.08 | snr=14.4 dB | reward=-56.81
+05:43:47 [DEBUG] veh106 | pwr=23.0 dBm | bc=5 Hz | cbr=0.11 | snr=6.8 dB | reward=-54.11
+05:43:47 [DEBUG] veh107 | pwr=22.0 dBm | bc=2 Hz | cbr=0.10 | snr=10.1 dB | reward=-54.91
+05:43:47 [DEBUG] veh108 | pwr=26.0 dBm | bc=13 Hz | cbr=0.10 | snr=4.4 dB | reward=-55.19
+05:43:47 [DEBUG] veh109 | pwr=16.0 dBm | bc=1 Hz | cbr=0.10 | snr=6.9 dB | reward=-54.67
+05:43:47 [DEBUG] veh11 | pwr=20.0 dBm | bc=2 Hz | cbr=0.10 | snr=6.7 dB | reward=-54.98
+05:43:47 [DEBUG] veh110 | pwr=27.0 dBm | bc=8 Hz | cbr=0.09 | snr=12.4 dB | reward=-56.00
+05:43:47 [DEBUG] veh111 | pwr=28.0 dBm | bc=15 Hz | cbr=0.11 | snr=3.4 dB | reward=-53.70
+05:43:47 [DEBUG] veh112 | pwr=25.0 dBm | bc=6 Hz | cbr=0.10 | snr=6.3 dB | reward=-55.31
+05:43:47 [DEBUG] veh113 | pwr=25.0 dBm | bc=6 Hz | cbr=0.10 | snr=8.3 dB | reward=-55.07
+05:43:47 [DEBUG] veh114 | pwr=25.0 dBm | bc=5 Hz | cbr=0.10 | snr=6.1 dB | reward=-54.90
+05:43:47 [DEBUG] veh115 | pwr=24.0 dBm | bc=6 Hz | cbr=0.12 | snr=4.6 dB | reward=-52.77
+05:43:47 [DEBUG] veh116 | pwr=25.0 dBm | bc=11 Hz | cbr=0.11 | snr=4.8 dB | reward=-53.79
+05:43:47 [DEBUG] veh117 | pwr=22.0 dBm | bc=3 Hz | cbr=0.10 | snr=6.5 dB | reward=-55.07
+05:43:47 [DEBUG] veh118 | pwr=24.0 dBm | bc=8 Hz | cbr=0.10 | snr=5.9 dB | reward=-54.66
+05:43:47 [DEBUG] veh119 | pwr=25.0 dBm | bc=9 Hz | cbr=0.12 | snr=4.2 dB | reward=-53.26
+05:43:47 [DEBUG] veh12 | pwr=29.0 dBm | bc=14 Hz | cbr=0.13 | snr=1.5 dB | reward=-52.29
+05:43:47 [DEBUG] veh120 | pwr=26.0 dBm | bc=8 Hz | cbr=0.12 | snr=3.8 dB | reward=-53.35
+05:43:47 [DEBUG] veh121 | pwr=23.0 dBm | bc=3 Hz | cbr=0.10 | snr=5.0 dB | reward=-55.24
+05:43:47 [DEBUG] veh122 | pwr=28.0 dBm | bc=9 Hz | cbr=0.12 | snr=4.8 dB | reward=-53.25
+05:43:47 [DEBUG] veh123 | pwr=26.0 dBm | bc=6 Hz | cbr=0.11 | snr=7.1 dB | reward=-54.22
+05:43:47 [DEBUG] veh124 | pwr=24.0 dBm | bc=4 Hz | cbr=0.09 | snr=4.6 dB | reward=-55.51
+05:43:47 [DEBUG] veh125 | pwr=27.0 dBm | bc=7 Hz | cbr=0.10 | snr=5.6 dB | reward=-55.11
+05:43:47 [DEBUG] veh126 | pwr=30.0 dBm | bc=10 Hz | cbr=0.12 | snr=13.0 dB | reward=-52.83
+05:43:47 [DEBUG] veh127 | pwr=27.0 dBm | bc=7 Hz | cbr=0.10 | snr=7.6 dB | reward=-55.13
+05:43:47 [DEBUG] veh130 | pwr=30.0 dBm | bc=10 Hz | cbr=0.12 | snr=13.7 dB | reward=-52.83
+05:43:47 [INFO ] [DEBUG] Sent RL response (2316 bytes)
+07:54:22 [INFO ] [BATCH] Received 34 vehicles' data
+07:54:22 [DEBUG] veh0 | pwr=30.0 dBm | bc=13 Hz | cbr=0.07 | snr=17.5 dB | reward=-58.19
+07:54:22 [DEBUG] veh1 | pwr=22.0 dBm | bc=3 Hz | cbr=0.06 | snr=25.7 dB | reward=-59.26
+07:54:22 [DEBUG] veh10 | pwr=29.0 dBm | bc=16 Hz | cbr=0.08 | snr=22.3 dB | reward=-56.81
+07:54:22 [DEBUG] veh100 | pwr=26.0 dBm | bc=13 Hz | cbr=0.09 | snr=7.8 dB | reward=-56.18
+07:54:22 [DEBUG] veh101 | pwr=25.0 dBm | bc=6 Hz | cbr=0.11 | snr=4.3 dB | reward=-54.32
+07:54:22 [DEBUG] veh102 | pwr=26.0 dBm | bc=16 Hz | cbr=0.08 | snr=17.2 dB | reward=-57.39
+07:54:22 [DEBUG] veh103 | pwr=14.0 dBm | bc=1 Hz | cbr=0.09 | snr=10.6 dB | reward=-56.00
+07:54:22 [DEBUG] veh104 | pwr=24.0 dBm | bc=10 Hz | cbr=0.09 | snr=9.8 dB | reward=-55.72
+07:54:22 [DEBUG] veh105 | pwr=28.0 dBm | bc=9 Hz | cbr=0.08 | snr=15.3 dB | reward=-56.91
+07:54:22 [DEBUG] veh106 | pwr=22.0 dBm | bc=4 Hz | cbr=0.11 | snr=7.1 dB | reward=-54.16
+07:54:22 [DEBUG] veh107 | pwr=23.0 dBm | bc=3 Hz | cbr=0.10 | snr=10.1 dB | reward=-54.91
+07:54:22 [DEBUG] veh108 | pwr=25.0 dBm | bc=12 Hz | cbr=0.10 | snr=4.4 dB | reward=-55.19
+07:54:22 [DEBUG] veh109 | pwr=15.0 dBm | bc=1 Hz | cbr=0.10 | snr=7.0 dB | reward=-54.69
+07:54:22 [DEBUG] veh11 | pwr=19.0 dBm | bc=1 Hz | cbr=0.10 | snr=6.7 dB | reward=-54.98
+07:54:22 [DEBUG] veh110 | pwr=28.0 dBm | bc=9 Hz | cbr=0.09 | snr=12.3 dB | reward=-56.10
+07:54:22 [DEBUG] veh111 | pwr=27.0 dBm | bc=14 Hz | cbr=0.11 | snr=3.4 dB | reward=-53.81
+07:54:22 [DEBUG] veh112 | pwr=24.0 dBm | bc=5 Hz | cbr=0.10 | snr=6.3 dB | reward=-55.31
+07:54:22 [DEBUG] veh113 | pwr=26.0 dBm | bc=7 Hz | cbr=0.10 | snr=8.9 dB | reward=-55.16
+07:54:22 [DEBUG] veh114 | pwr=24.0 dBm | bc=4 Hz | cbr=0.10 | snr=6.1 dB | reward=-54.90
+07:54:22 [DEBUG] veh115 | pwr=25.0 dBm | bc=7 Hz | cbr=0.12 | snr=5.1 dB | reward=-52.86
+07:54:22 [DEBUG] veh116 | pwr=24.0 dBm | bc=10 Hz | cbr=0.11 | snr=4.8 dB | reward=-53.79
+07:54:22 [DEBUG] veh117 | pwr=21.0 dBm | bc=2 Hz | cbr=0.10 | snr=6.5 dB | reward=-55.07
+07:54:22 [DEBUG] veh118 | pwr=23.0 dBm | bc=7 Hz | cbr=0.10 | snr=5.9 dB | reward=-54.66
+07:54:22 [DEBUG] veh119 | pwr=24.0 dBm | bc=8 Hz | cbr=0.12 | snr=4.4 dB | reward=-53.39
+07:54:22 [DEBUG] veh12 | pwr=30.0 dBm | bc=15 Hz | cbr=0.13 | snr=1.3 dB | reward=-52.35
+07:54:22 [DEBUG] veh120 | pwr=27.0 dBm | bc=9 Hz | cbr=0.11 | snr=3.6 dB | reward=-53.50
+07:54:22 [DEBUG] veh121 | pwr=24.0 dBm | bc=4 Hz | cbr=0.10 | snr=4.6 dB | reward=-55.12
+07:54:22 [DEBUG] veh122 | pwr=27.0 dBm | bc=8 Hz | cbr=0.12 | snr=4.2 dB | reward=-53.26
+07:54:22 [DEBUG] veh123 | pwr=27.0 dBm | bc=7 Hz | cbr=0.11 | snr=6.1 dB | reward=-54.11
+07:54:22 [DEBUG] veh124 | pwr=25.0 dBm | bc=5 Hz | cbr=0.09 | snr=4.2 dB | reward=-55.60
+07:54:22 [DEBUG] veh125 | pwr=26.0 dBm | bc=6 Hz | cbr=0.10 | snr=5.8 dB | reward=-55.30
+07:54:22 [DEBUG] veh126 | pwr=29.0 dBm | bc=9 Hz | cbr=0.11 | snr=10.1 dB | reward=-54.27
+07:54:22 [DEBUG] veh127 | pwr=28.0 dBm | bc=8 Hz | cbr=0.10 | snr=8.0 dB | reward=-55.35
+07:54:22 [DEBUG] veh130 | pwr=30.0 dBm | bc=11 Hz | cbr=0.11 | snr=11.9 dB | reward=-54.41
+07:54:22 [INFO ] [DEBUG] Sent RL response (2316 bytes)
+09:28:38 [INFO ] [BATCH] Received 34 vehicles' data
+09:28:38 [DEBUG] veh0 | pwr=30.0 dBm | bc=14 Hz | cbr=0.07 | snr=18.1 dB | reward=-58.03
+09:28:38 [DEBUG] veh1 | pwr=23.0 dBm | bc=4 Hz | cbr=0.06 | snr=24.7 dB | reward=-59.25
+09:28:38 [DEBUG] veh10 | pwr=30.0 dBm | bc=17 Hz | cbr=0.08 | snr=21.5 dB | reward=-56.78
+09:28:38 [DEBUG] veh100 | pwr=25.0 dBm | bc=12 Hz | cbr=0.09 | snr=7.8 dB | reward=-56.23
+09:28:38 [DEBUG] veh101 | pwr=24.0 dBm | bc=5 Hz | cbr=0.11 | snr=4.3 dB | reward=-54.32
+09:28:38 [DEBUG] veh102 | pwr=25.0 dBm | bc=15 Hz | cbr=0.08 | snr=17.3 dB | reward=-57.41
+09:28:38 [DEBUG] veh103 | pwr=13.0 dBm | bc=1 Hz | cbr=0.09 | snr=10.6 dB | reward=-56.00
+09:28:38 [DEBUG] veh104 | pwr=23.0 dBm | bc=9 Hz | cbr=0.09 | snr=10.2 dB | reward=-55.77
+09:28:38 [DEBUG] veh105 | pwr=27.0 dBm | bc=8 Hz | cbr=0.08 | snr=15.9 dB | reward=-57.00
+09:28:38 [DEBUG] veh106 | pwr=21.0 dBm | bc=3 Hz | cbr=0.11 | snr=7.3 dB | reward=-54.19
+09:28:38 [DEBUG] veh107 | pwr=22.0 dBm | bc=2 Hz | cbr=0.10 | snr=10.1 dB | reward=-54.91
+09:28:38 [DEBUG] veh108 | pwr=26.0 dBm | bc=13 Hz | cbr=0.10 | snr=4.4 dB | reward=-55.19
+09:28:38 [DEBUG] veh109 | pwr=14.0 dBm | bc=1 Hz | cbr=0.10 | snr=7.2 dB | reward=-54.71
+09:28:38 [DEBUG] veh11 | pwr=18.0 dBm | bc=1 Hz | cbr=0.10 | snr=6.7 dB | reward=-54.98
+09:28:38 [DEBUG] veh110 | pwr=29.0 dBm | bc=10 Hz | cbr=0.09 | snr=12.0 dB | reward=-56.20
+09:28:38 [DEBUG] veh111 | pwr=26.0 dBm | bc=13 Hz | cbr=0.11 | snr=3.3 dB | reward=-53.91
+09:28:38 [DEBUG] veh112 | pwr=25.0 dBm | bc=6 Hz | cbr=0.10 | snr=6.8 dB | reward=-55.38
+09:28:38 [DEBUG] veh113 | pwr=25.0 dBm | bc=6 Hz | cbr=0.10 | snr=9.4 dB | reward=-55.23
+09:28:38 [DEBUG] veh114 | pwr=25.0 dBm | bc=5 Hz | cbr=0.10 | snr=6.7 dB | reward=-54.99
+09:28:38 [DEBUG] veh115 | pwr=24.0 dBm | bc=6 Hz | cbr=0.12 | snr=5.4 dB | reward=-52.93
+09:28:38 [DEBUG] veh116 | pwr=25.0 dBm | bc=11 Hz | cbr=0.11 | snr=4.8 dB | reward=-53.79
+09:28:38 [DEBUG] veh117 | pwr=20.0 dBm | bc=1 Hz | cbr=0.10 | snr=6.5 dB | reward=-55.07
+09:28:38 [DEBUG] veh118 | pwr=24.0 dBm | bc=8 Hz | cbr=0.10 | snr=5.9 dB | reward=-54.66
+09:28:38 [DEBUG] veh119 | pwr=23.0 dBm | bc=7 Hz | cbr=0.12 | snr=4.9 dB | reward=-53.47
+09:28:38 [DEBUG] veh12 | pwr=29.0 dBm | bc=14 Hz | cbr=0.12 | snr=1.6 dB | reward=-52.56
+09:28:38 [DEBUG] veh120 | pwr=26.0 dBm | bc=8 Hz | cbr=0.11 | snr=3.9 dB | reward=-53.66
+09:28:38 [DEBUG] veh121 | pwr=23.0 dBm | bc=3 Hz | cbr=0.10 | snr=4.5 dB | reward=-55.22
+09:28:38 [DEBUG] veh122 | pwr=28.0 dBm | bc=9 Hz | cbr=0.12 | snr=3.7 dB | reward=-53.26
+09:28:38 [DEBUG] veh123 | pwr=26.0 dBm | bc=6 Hz | cbr=0.11 | snr=6.2 dB | reward=-54.29
+09:28:38 [DEBUG] veh124 | pwr=26.0 dBm | bc=6 Hz | cbr=0.09 | snr=4.0 dB | reward=-55.68
+09:28:38 [DEBUG] veh125 | pwr=25.0 dBm | bc=5 Hz | cbr=0.10 | snr=5.6 dB | reward=-55.43
+09:28:38 [DEBUG] veh126 | pwr=28.0 dBm | bc=8 Hz | cbr=0.10 | snr=8.1 dB | reward=-54.84
+09:28:38 [DEBUG] veh127 | pwr=27.0 dBm | bc=7 Hz | cbr=0.10 | snr=7.9 dB | reward=-55.50
+09:28:38 [DEBUG] veh130 | pwr=29.0 dBm | bc=10 Hz | cbr=0.10 | snr=10.9 dB | reward=-54.98
+09:28:38 [INFO ] [DEBUG] Sent RL response (2316 bytes)
+11:48:18 [INFO ] [BATCH] Received 36 vehicles' data
+11:48:18 [DEBUG] veh0 | pwr=29.0 dBm | bc=13 Hz | cbr=0.07 | snr=17.3 dB | reward=-57.91
+11:48:18 [DEBUG] veh1 | pwr=22.0 dBm | bc=3 Hz | cbr=0.06 | snr=25.2 dB | reward=-59.29
+11:48:18 [DEBUG] veh10 | pwr=29.0 dBm | bc=16 Hz | cbr=0.08 | snr=20.6 dB | reward=-56.58
+11:48:18 [DEBUG] veh100 | pwr=24.0 dBm | bc=11 Hz | cbr=0.09 | snr=7.8 dB | reward=-56.23
+11:48:18 [DEBUG] veh101 | pwr=23.0 dBm | bc=4 Hz | cbr=0.11 | snr=4.5 dB | reward=-54.36
+11:48:18 [DEBUG] veh102 | pwr=24.0 dBm | bc=14 Hz | cbr=0.08 | snr=17.2 dB | reward=-57.44
+11:48:18 [DEBUG] veh103 | pwr=14.0 dBm | bc=2 Hz | cbr=0.09 | snr=10.6 dB | reward=-56.00
+11:48:18 [DEBUG] veh104 | pwr=22.0 dBm | bc=8 Hz | cbr=0.09 | snr=10.1 dB | reward=-55.81
+11:48:18 [DEBUG] veh105 | pwr=28.0 dBm | bc=9 Hz | cbr=0.08 | snr=15.4 dB | reward=-57.07
+11:48:18 [DEBUG] veh106 | pwr=22.0 dBm | bc=4 Hz | cbr=0.11 | snr=7.6 dB | reward=-54.24
+11:48:18 [DEBUG] veh107 | pwr=23.0 dBm | bc=3 Hz | cbr=0.10 | snr=10.1 dB | reward=-54.91
+11:48:18 [DEBUG] veh108 | pwr=27.0 dBm | bc=14 Hz | cbr=0.10 | snr=4.4 dB | reward=-55.19
+11:48:18 [DEBUG] veh109 | pwr=15.0 dBm | bc=2 Hz | cbr=0.10 | snr=7.5 dB | reward=-54.75
+11:48:18 [DEBUG] veh11 | pwr=17.0 dBm | bc=1 Hz | cbr=0.10 | snr=6.7 dB | reward=-54.98
+11:48:18 [DEBUG] veh110 | pwr=30.0 dBm | bc=11 Hz | cbr=0.09 | snr=11.8 dB | reward=-56.30
+11:48:18 [DEBUG] veh111 | pwr=27.0 dBm | bc=14 Hz | cbr=0.11 | snr=3.3 dB | reward=-54.01
+11:48:18 [DEBUG] veh112 | pwr=26.0 dBm | bc=7 Hz | cbr=0.10 | snr=7.3 dB | reward=-55.45
+11:48:18 [DEBUG] veh113 | pwr=24.0 dBm | bc=5 Hz | cbr=0.10 | snr=9.4 dB | reward=-55.23
+11:48:18 [DEBUG] veh114 | pwr=24.0 dBm | bc=4 Hz | cbr=0.10 | snr=6.7 dB | reward=-54.99
+11:48:18 [DEBUG] veh115 | pwr=23.0 dBm | bc=5 Hz | cbr=0.12 | snr=5.4 dB | reward=-52.93
+11:48:18 [DEBUG] veh116 | pwr=26.0 dBm | bc=12 Hz | cbr=0.11 | snr=5.4 dB | reward=-53.88
+11:48:18 [DEBUG] veh117 | pwr=21.0 dBm | bc=2 Hz | cbr=0.10 | snr=6.5 dB | reward=-55.07
+11:48:18 [DEBUG] veh118 | pwr=25.0 dBm | bc=9 Hz | cbr=0.10 | snr=5.9 dB | reward=-54.66
+11:48:18 [DEBUG] veh119 | pwr=24.0 dBm | bc=8 Hz | cbr=0.11 | snr=5.4 dB | reward=-53.56
+11:48:18 [DEBUG] veh12 | pwr=28.0 dBm | bc=13 Hz | cbr=0.12 | snr=1.5 dB | reward=-52.77
+11:48:18 [DEBUG] veh120 | pwr=25.0 dBm | bc=7 Hz | cbr=0.11 | snr=4.1 dB | reward=-53.80
+11:48:18 [DEBUG] veh121 | pwr=22.0 dBm | bc=2 Hz | cbr=0.10 | snr=4.9 dB | reward=-55.28
+11:48:18 [DEBUG] veh122 | pwr=27.0 dBm | bc=8 Hz | cbr=0.12 | snr=3.7 dB | reward=-53.42
+11:48:18 [DEBUG] veh123 | pwr=25.0 dBm | bc=5 Hz | cbr=0.11 | snr=5.7 dB | reward=-54.23
+11:48:18 [DEBUG] veh124 | pwr=25.0 dBm | bc=5 Hz | cbr=0.10 | snr=3.7 dB | reward=-55.46
+11:48:18 [DEBUG] veh125 | pwr=26.0 dBm | bc=6 Hz | cbr=0.10 | snr=4.8 dB | reward=-55.14
+11:48:18 [DEBUG] veh126 | pwr=27.0 dBm | bc=7 Hz | cbr=0.10 | snr=9.1 dB | reward=-55.14
+11:48:18 [DEBUG] veh127 | pwr=26.0 dBm | bc=6 Hz | cbr=0.10 | snr=7.3 dB | reward=-55.22
+11:48:18 [DEBUG] veh128 | pwr=30.0 dBm | bc=10 Hz | cbr=0.12 | snr=13.4 dB | reward=-52.83
+11:48:18 [DEBUG] veh130 | pwr=30.0 dBm | bc=11 Hz | cbr=0.11 | snr=10.7 dB | reward=-54.48
+11:48:18 [DEBUG] veh132 | pwr=30.0 dBm | bc=10 Hz | cbr=0.12 | snr=13.6 dB | reward=-52.83
+11:48:18 [INFO ] [DEBUG] Sent RL response (2455 bytes)
+14:00:17 [INFO ] [BATCH] Received 36 vehicles' data
+14:00:17 [DEBUG] veh0 | pwr=28.0 dBm | bc=12 Hz | cbr=0.07 | snr=16.8 dB | reward=-57.95
+14:00:17 [DEBUG] veh1 | pwr=21.0 dBm | bc=2 Hz | cbr=0.06 | snr=25.6 dB | reward=-59.32
+14:00:17 [DEBUG] veh10 | pwr=30.0 dBm | bc=17 Hz | cbr=0.08 | snr=20.4 dB | reward=-56.56
+14:00:17 [DEBUG] veh100 | pwr=23.0 dBm | bc=10 Hz | cbr=0.09 | snr=7.8 dB | reward=-56.27
+14:00:17 [DEBUG] veh101 | pwr=22.0 dBm | bc=3 Hz | cbr=0.11 | snr=4.8 dB | reward=-54.38
+14:00:17 [DEBUG] veh102 | pwr=25.0 dBm | bc=15 Hz | cbr=0.08 | snr=17.3 dB | reward=-57.40
+14:00:17 [DEBUG] veh103 | pwr=13.0 dBm | bc=1 Hz | cbr=0.09 | snr=10.5 dB | reward=-56.02
+14:00:17 [DEBUG] veh104 | pwr=21.0 dBm | bc=7 Hz | cbr=0.09 | snr=10.1 dB | reward=-55.84
+14:00:17 [DEBUG] veh105 | pwr=27.0 dBm | bc=8 Hz | cbr=0.08 | snr=15.1 dB | reward=-57.14
+14:00:17 [DEBUG] veh106 | pwr=21.0 dBm | bc=3 Hz | cbr=0.11 | snr=7.9 dB | reward=-54.27
+14:00:17 [DEBUG] veh107 | pwr=22.0 dBm | bc=2 Hz | cbr=0.10 | snr=10.1 dB | reward=-54.91
+14:00:17 [DEBUG] veh108 | pwr=28.0 dBm | bc=15 Hz | cbr=0.10 | snr=4.9 dB | reward=-55.26
+14:00:17 [DEBUG] veh109 | pwr=14.0 dBm | bc=1 Hz | cbr=0.10 | snr=7.7 dB | reward=-54.76
+14:00:17 [DEBUG] veh11 | pwr=16.0 dBm | bc=1 Hz | cbr=0.10 | snr=6.7 dB | reward=-54.98
+14:00:17 [DEBUG] veh110 | pwr=30.0 dBm | bc=12 Hz | cbr=0.09 | snr=11.5 dB | reward=-56.40
+14:00:17 [DEBUG] veh111 | pwr=28.0 dBm | bc=15 Hz | cbr=0.11 | snr=3.2 dB | reward=-54.11
+14:00:17 [DEBUG] veh112 | pwr=27.0 dBm | bc=8 Hz | cbr=0.09 | snr=7.9 dB | reward=-55.54
+14:00:17 [DEBUG] veh113 | pwr=23.0 dBm | bc=4 Hz | cbr=0.10 | snr=9.4 dB | reward=-55.23
+14:00:17 [DEBUG] veh114 | pwr=25.0 dBm | bc=5 Hz | cbr=0.10 | snr=7.2 dB | reward=-55.07
+14:00:17 [DEBUG] veh115 | pwr=22.0 dBm | bc=4 Hz | cbr=0.12 | snr=5.4 dB | reward=-52.93
+14:00:17 [DEBUG] veh116 | pwr=25.0 dBm | bc=11 Hz | cbr=0.11 | snr=5.4 dB | reward=-53.88
+14:00:17 [DEBUG] veh117 | pwr=22.0 dBm | bc=3 Hz | cbr=0.10 | snr=6.5 dB | reward=-55.07
+14:00:17 [DEBUG] veh118 | pwr=26.0 dBm | bc=10 Hz | cbr=0.10 | snr=6.6 dB | reward=-54.76
+14:00:17 [DEBUG] veh119 | pwr=23.0 dBm | bc=7 Hz | cbr=0.11 | snr=5.9 dB | reward=-53.64
+14:00:17 [DEBUG] veh12 | pwr=27.0 dBm | bc=12 Hz | cbr=0.12 | snr=1.5 dB | reward=-52.94
+14:00:17 [DEBUG] veh120 | pwr=26.0 dBm | bc=8 Hz | cbr=0.11 | snr=4.3 dB | reward=-53.95
+14:00:17 [DEBUG] veh121 | pwr=23.0 dBm | bc=3 Hz | cbr=0.10 | snr=5.6 dB | reward=-55.36
+14:00:17 [DEBUG] veh122 | pwr=28.0 dBm | bc=9 Hz | cbr=0.11 | snr=3.8 dB | reward=-53.57
+14:00:17 [DEBUG] veh123 | pwr=24.0 dBm | bc=4 Hz | cbr=0.11 | snr=5.9 dB | reward=-54.33
+14:00:17 [DEBUG] veh124 | pwr=24.0 dBm | bc=4 Hz | cbr=0.09 | snr=3.7 dB | reward=-55.52
+14:00:17 [DEBUG] veh125 | pwr=25.0 dBm | bc=5 Hz | cbr=0.10 | snr=4.3 dB | reward=-55.25
+14:00:17 [DEBUG] veh126 | pwr=26.0 dBm | bc=6 Hz | cbr=0.10 | snr=9.4 dB | reward=-55.33
+14:00:17 [DEBUG] veh127 | pwr=27.0 dBm | bc=7 Hz | cbr=0.10 | snr=6.8 dB | reward=-54.98
+14:00:17 [DEBUG] veh128 | pwr=30.0 dBm | bc=11 Hz | cbr=0.12 | snr=12.4 dB | reward=-53.07
+14:00:17 [DEBUG] veh130 | pwr=30.0 dBm | bc=12 Hz | cbr=0.11 | snr=10.0 dB | reward=-54.18
+14:00:17 [DEBUG] veh132 | pwr=30.0 dBm | bc=11 Hz | cbr=0.12 | snr=12.6 dB | reward=-53.07
+14:00:17 [INFO ] [DEBUG] Sent RL response (2455 bytes)
+16:21:52 [INFO ] Server listening on 0.0.0.0:5000

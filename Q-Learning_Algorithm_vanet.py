@@ -9,7 +9,7 @@ gamma = 0.9  # Discount factor
 epsilon_start = 1.0  # Starting value for epsilon
 epsilon_min = 0.01  # Minimum value for epsilon
 epsilon_decay = 0.995  # Decay rate for epsilon
-n_episodes = 100  # Total number of episodes
+n_episodes = 1000  # Total number of episodes
 
 # Placeholder for Q-values
 Q = {}
