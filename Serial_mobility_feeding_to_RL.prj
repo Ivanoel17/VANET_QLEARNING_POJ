@@ -1,0 +1,182 @@
+<deployment-project plugin="plugin.ezdeploy" plugin-version="1.0">
+  <configuration file="C:\Users\HP\Dari Laptop Lama\personal\Kuliah S3\SK3\Alternatif Experimen dengan Matlab\package program vanet\Serial_mobility_feeding_to_RL.prj" location="C:\Users\HP\Dari Laptop Lama\personal\Kuliah S3\SK3\Alternatif Experimen dengan Matlab\package program vanet" name="Serial_mobility_feeding_to_RL" target="target.ezdeploy.standalone" target-name="Application Compiler">
+    <param.appname>Serial_mobility_feeding_to_RL</param.appname>
+    <param.icon />
+    <param.icons />
+    <param.version>1.0</param.version>
+    <param.authnamewatermark />
+    <param.email />
+    <param.company />
+    <param.summary />
+    <param.description />
+    <param.screenshot />
+    <param.guid />
+    <param.installpath.string>\Serial_mobility_feeding_to_RL\</param.installpath.string>
+    <param.installpath.combo>option.installpath.programfiles</param.installpath.combo>
+    <param.logo />
+    <param.install.notes />
+    <param.target.install.notes />
+    <param.intermediate>${PROJECT_ROOT}\Serial_mobility_feeding_to_RL\for_testing</param.intermediate>
+    <param.files.only>${PROJECT_ROOT}\Serial_mobility_feeding_to_RL\for_redistribution_files_only</param.files.only>
+    <param.output>${PROJECT_ROOT}\Serial_mobility_feeding_to_RL\for_redistribution</param.output>
+    <param.logdir>${PROJECT_ROOT}\Serial_mobility_feeding_to_RL</param.logdir>
+    <param.enable.clean.build>false</param.enable.clean.build>
+    <param.user.defined.mcr.options />
+    <param.target.type>subtarget.standalone</param.target.type>
+    <param.support.packages />
+    <param.web.mcr>true</param.web.mcr>
+    <param.package.mcr>false</param.package.mcr>
+    <param.no.mcr>false</param.no.mcr>
+    <param.web.mcr.name>MyAppInstaller_web</param.web.mcr.name>
+    <param.package.mcr.name>MyAppInstaller_mcr</param.package.mcr.name>
+    <param.no.mcr.name>MyAppInstaller_app</param.no.mcr.name>
+    <param.windows.command.prompt>true</param.windows.command.prompt>
+    <param.create.log>false</param.create.log>
+    <param.log.file />
+    <param.native.matlab>false</param.native.matlab>
+    <param.checkbox>false</param.checkbox>
+    <param.example />
+    <param.help.text>Syntax 
+	 Serial_mobility_feeding_to_RL -? 
+	 Serial_mobility_feeding_to_RL r_cs numNeighbors b C p p_prime beta mcs simParams 
+ Input Arguments 
+	 -?  print help on how to use the application 
+	 r_cs numNeighbors b C p p_prime beta mcs simParams  input arguments</param.help.text>
+    <unset>
+      <param.icon />
+      <param.icons />
+      <param.version />
+      <param.authnamewatermark />
+      <param.email />
+      <param.company />
+      <param.summary />
+      <param.description />
+      <param.screenshot />
+      <param.guid />
+      <param.installpath.string />
+      <param.installpath.combo />
+      <param.logo />
+      <param.install.notes />
+      <param.target.install.notes />
+      <param.intermediate />
+      <param.files.only />
+      <param.output />
+      <param.logdir />
+      <param.enable.clean.build />
+      <param.user.defined.mcr.options />
+      <param.target.type />
+      <param.support.packages />
+      <param.web.mcr />
+      <param.package.mcr />
+      <param.no.mcr />
+      <param.web.mcr.name />
+      <param.package.mcr.name />
+      <param.no.mcr.name />
+      <param.windows.command.prompt />
+      <param.create.log />
+      <param.log.file />
+      <param.native.matlab />
+      <param.checkbox />
+      <param.example />
+    </unset>
+    <fileset.main>
+      <file>C:\Users\HP\Dari Laptop Lama\personal\Kuliah S3\SK3\Alternatif Experimen dengan Matlab\Library\ubx-v2x-master\simulate_vanet_serial_RL_interaction_per_second.m</file>
+    </fileset.main>
+    <fileset.resources>
+      <file>C:\Users\HP\Dari Laptop Lama\personal\Kuliah S3\SK3\Alternatif Experimen dengan Matlab\Library\ubx-v2x-master\simulate_vanet_serial_RL_interaction_per_second.m</file>
+    </fileset.resources>
+    <fileset.package />
+    <fileset.depfun>
+      <file>C:\Users\HP\Dari Laptop Lama\personal\Kuliah S3\SK3\Alternatif Experimen dengan Matlab\Library\ubx-v2x-master\ext\ldpc_dec_ext.m</file>
+      <file>C:\Users\HP\Dari Laptop Lama\personal\Kuliah S3\SK3\Alternatif Experimen dengan Matlab\Library\ubx-v2x-master\ext\LDPCCode.m</file>
+      <file>C:\Users\HP\Dari Laptop Lama\personal\Kuliah S3\SK3\Alternatif Experimen dengan Matlab\Library\ubx-v2x-master\functions\add_rx_pn.m</file>
+      <file>C:\Users\HP\Dari Laptop Lama\personal\Kuliah S3\SK3\Alternatif Experimen dengan Matlab\Library\ubx-v2x-master\functions\add_tx_pn.m</file>
+      <file>C:\Users\HP\Dari Laptop Lama\personal\Kuliah S3\SK3\Alternatif Experimen dengan Matlab\Library\ubx-v2x-master\functions\apply_cfo.m</file>
+      <file>C:\Users\HP\Dari Laptop Lama\personal\Kuliah S3\SK3\Alternatif Experimen dengan Matlab\Library\ubx-v2x-master\functions\apply_time_window.m</file>
+      <file>C:\Users\HP\Dari Laptop Lama\personal\Kuliah S3\SK3\Alternatif Experimen dengan Matlab\Library\ubx-v2x-master\functions\bcc_dec.m</file>
+      <file>C:\Users\HP\Dari Laptop Lama\personal\Kuliah S3\SK3\Alternatif Experimen dengan Matlab\Library\ubx-v2x-master\functions\chan_est.m</file>
+      <file>C:\Users\HP\Dari Laptop Lama\personal\Kuliah S3\SK3\Alternatif Experimen dengan Matlab\Library\ubx-v2x-master\functions\chan_mod_init.m</file>
+      <file>C:\Users\HP\Dari Laptop Lama\personal\Kuliah S3\SK3\Alternatif Experimen dengan Matlab\Library\ubx-v2x-master\functions\check_sp_mask.m</file>
+      <file>C:\Users\HP\Dari Laptop Lama\personal\Kuliah S3\SK3\Alternatif Experimen dengan Matlab\Library\ubx-v2x-master\functions\crc32.m</file>
+      <file>C:\Users\HP\Dari Laptop Lama\personal\Kuliah S3\SK3\Alternatif Experimen dengan Matlab\Library\ubx-v2x-master\functions\crc8.m</file>
+      <file>C:\Users\HP\Dari Laptop Lama\personal\Kuliah S3\SK3\Alternatif Experimen dengan Matlab\Library\ubx-v2x-master\functions\data_rx.m</file>
+      <file>C:\Users\HP\Dari Laptop Lama\personal\Kuliah S3\SK3\Alternatif Experimen dengan Matlab\Library\ubx-v2x-master\functions\data_tx.m</file>
+      <file>C:\Users\HP\Dari Laptop Lama\personal\Kuliah S3\SK3\Alternatif Experimen dengan Matlab\Library\ubx-v2x-master\functions\deinterleaver.m</file>
+      <file>C:\Users\HP\Dari Laptop Lama\personal\Kuliah S3\SK3\Alternatif Experimen dengan Matlab\Library\ubx-v2x-master\functions\descrambler_rx.m</file>
+      <file>C:\Users\HP\Dari Laptop Lama\personal\Kuliah S3\SK3\Alternatif Experimen dengan Matlab\Library\ubx-v2x-master\functions\dot11_fft.m</file>
+      <file>C:\Users\HP\Dari Laptop Lama\personal\Kuliah S3\SK3\Alternatif Experimen dengan Matlab\Library\ubx-v2x-master\functions\dot11_ifft.m</file>
+      <file>C:\Users\HP\Dari Laptop Lama\personal\Kuliah S3\SK3\Alternatif Experimen dengan Matlab\Library\ubx-v2x-master\functions\downsample_rx.m</file>
+      <file>C:\Users\HP\Dari Laptop Lama\personal\Kuliah S3\SK3\Alternatif Experimen dengan Matlab\Library\ubx-v2x-master\functions\fd_smooth.m</file>
+      <file>C:\Users\HP\Dari Laptop Lama\personal\Kuliah S3\SK3\Alternatif Experimen dengan Matlab\Library\ubx-v2x-master\functions\fine_sync.m</file>
+      <file>C:\Users\HP\Dari Laptop Lama\personal\Kuliah S3\SK3\Alternatif Experimen dengan Matlab\Library\ubx-v2x-master\functions\interleaver.m</file>
+      <file>C:\Users\HP\Dari Laptop Lama\personal\Kuliah S3\SK3\Alternatif Experimen dengan Matlab\Library\ubx-v2x-master\functions\ldpc_dec.m</file>
+      <file>C:\Users\HP\Dari Laptop Lama\personal\Kuliah S3\SK3\Alternatif Experimen dengan Matlab\Library\ubx-v2x-master\functions\ldpc_enc.m</file>
+      <file>C:\Users\HP\Dari Laptop Lama\personal\Kuliah S3\SK3\Alternatif Experimen dengan Matlab\Library\ubx-v2x-master\functions\ldpc_enc_params.m</file>
+      <file>C:\Users\HP\Dari Laptop Lama\personal\Kuliah S3\SK3\Alternatif Experimen dengan Matlab\Library\ubx-v2x-master\functions\llr_demap.m</file>
+      <file>C:\Users\HP\Dari Laptop Lama\personal\Kuliah S3\SK3\Alternatif Experimen dengan Matlab\Library\ubx-v2x-master\functions\ltf_tx.m</file>
+      <file>C:\Users\HP\Dari Laptop Lama\personal\Kuliah S3\SK3\Alternatif Experimen dengan Matlab\Library\ubx-v2x-master\functions\mapper_tx.m</file>
+      <file>C:\Users\HP\Dari Laptop Lama\personal\Kuliah S3\SK3\Alternatif Experimen dengan Matlab\Library\ubx-v2x-master\functions\n_bpscs_to_string.m</file>
+      <file>C:\Users\HP\Dari Laptop Lama\personal\Kuliah S3\SK3\Alternatif Experimen dengan Matlab\Library\ubx-v2x-master\functions\ngv_chan_est.m</file>
+      <file>C:\Users\HP\Dari Laptop Lama\personal\Kuliah S3\SK3\Alternatif Experimen dengan Matlab\Library\ubx-v2x-master\functions\ngv_ltf_tx.m</file>
+      <file>C:\Users\HP\Dari Laptop Lama\personal\Kuliah S3\SK3\Alternatif Experimen dengan Matlab\Library\ubx-v2x-master\functions\ngv_sig_parse.m</file>
+      <file>C:\Users\HP\Dari Laptop Lama\personal\Kuliah S3\SK3\Alternatif Experimen dengan Matlab\Library\ubx-v2x-master\functions\ngv_sig_rx.m</file>
+      <file>C:\Users\HP\Dari Laptop Lama\personal\Kuliah S3\SK3\Alternatif Experimen dengan Matlab\Library\ubx-v2x-master\functions\ngv_sig_tx.m</file>
+      <file>C:\Users\HP\Dari Laptop Lama\personal\Kuliah S3\SK3\Alternatif Experimen dengan Matlab\Library\ubx-v2x-master\functions\ngv_stf_tx.m</file>
+      <file>C:\Users\HP\Dari Laptop Lama\personal\Kuliah S3\SK3\Alternatif Experimen dengan Matlab\Library\ubx-v2x-master\functions\pa_model.m</file>
+      <file>C:\Users\HP\Dari Laptop Lama\personal\Kuliah S3\SK3\Alternatif Experimen dengan Matlab\Library\ubx-v2x-master\functions\pdet.m</file>
+      <file>C:\Users\HP\Dari Laptop Lama\personal\Kuliah S3\SK3\Alternatif Experimen dengan Matlab\Library\ubx-v2x-master\functions\qam16_demap.m</file>
+      <file>C:\Users\HP\Dari Laptop Lama\personal\Kuliah S3\SK3\Alternatif Experimen dengan Matlab\Library\ubx-v2x-master\functions\qam256_demap.m</file>
+      <file>C:\Users\HP\Dari Laptop Lama\personal\Kuliah S3\SK3\Alternatif Experimen dengan Matlab\Library\ubx-v2x-master\functions\qam64_demap.m</file>
+      <file>C:\Users\HP\Dari Laptop Lama\personal\Kuliah S3\SK3\Alternatif Experimen dengan Matlab\Library\ubx-v2x-master\functions\scrambler_tx.m</file>
+      <file>C:\Users\HP\Dari Laptop Lama\personal\Kuliah S3\SK3\Alternatif Experimen dengan Matlab\Library\ubx-v2x-master\functions\sig_parse.m</file>
+      <file>C:\Users\HP\Dari Laptop Lama\personal\Kuliah S3\SK3\Alternatif Experimen dengan Matlab\Library\ubx-v2x-master\functions\sig_pre_rx.m</file>
+      <file>C:\Users\HP\Dari Laptop Lama\personal\Kuliah S3\SK3\Alternatif Experimen dengan Matlab\Library\ubx-v2x-master\functions\sig_rx.m</file>
+      <file>C:\Users\HP\Dari Laptop Lama\personal\Kuliah S3\SK3\Alternatif Experimen dengan Matlab\Library\ubx-v2x-master\functions\sig_tx.m</file>
+      <file>C:\Users\HP\Dari Laptop Lama\personal\Kuliah S3\SK3\Alternatif Experimen dengan Matlab\Library\ubx-v2x-master\functions\sim_rx.m</file>
+      <file>C:\Users\HP\Dari Laptop Lama\personal\Kuliah S3\SK3\Alternatif Experimen dengan Matlab\Library\ubx-v2x-master\functions\sim_tx.m</file>
+      <file>C:\Users\HP\Dari Laptop Lama\personal\Kuliah S3\SK3\Alternatif Experimen dengan Matlab\Library\ubx-v2x-master\functions\stf_tx.m</file>
+      <file>C:\Users\HP\Dari Laptop Lama\personal\Kuliah S3\SK3\Alternatif Experimen dengan Matlab\Library\ubx-v2x-master\functions\tx_phy_params.m</file>
+      <file>C:\Users\HP\Dari Laptop Lama\personal\Kuliah S3\SK3\Alternatif Experimen dengan Matlab\Library\ubx-v2x-master\functions\upsample_tx.m</file>
+      <file>C:\Users\HP\Dari Laptop Lama\personal\Kuliah S3\SK3\Alternatif Experimen dengan Matlab\Library\ubx-v2x-master\mex\sim_rx_mex.mexw64</file>
+      <file>C:\Users\HP\Dari Laptop Lama\personal\Kuliah S3\SK3\Alternatif Experimen dengan Matlab\Library\ubx-v2x-master\mex\sim_tx_mex.mexw64</file>
+    </fileset.depfun>
+    <build-deliverables>
+      <file location="${PROJECT_ROOT}\Serial_mobility_feeding_to_RL\for_testing" name="splash.png" optional="false">C:\Users\HP\Dari Laptop Lama\personal\Kuliah S3\SK3\Alternatif Experimen dengan Matlab\package program vanet\Serial_mobility_feeding_to_RL\for_testing\splash.png</file>
+      <file location="${PROJECT_ROOT}\Serial_mobility_feeding_to_RL\for_testing" name="readme.txt" optional="true">C:\Users\HP\Dari Laptop Lama\personal\Kuliah S3\SK3\Alternatif Experimen dengan Matlab\package program vanet\Serial_mobility_feeding_to_RL\for_testing\readme.txt</file>
+      <file location="${PROJECT_ROOT}\Serial_mobility_feeding_to_RL\for_testing" name="Serial_mobility_feeding_to_RL.exe" optional="false">C:\Users\HP\Dari Laptop Lama\personal\Kuliah S3\SK3\Alternatif Experimen dengan Matlab\package program vanet\Serial_mobility_feeding_to_RL\for_testing\Serial_mobility_feeding_to_RL.exe</file>
+    </build-deliverables>
+    <workflow />
+    <matlab>
+      <root>C:\Program Files\MATLAB\R2024b</root>
+      <toolboxes>
+        <toolbox name="matlabcoder" />
+        <toolbox name="neuralnetwork" />
+      </toolboxes>
+      <toolbox>
+        <matlabcoder>
+          <enabled>true</enabled>
+        </matlabcoder>
+      </toolbox>
+      <toolbox>
+        <neuralnetwork>
+          <enabled>true</enabled>
+        </neuralnetwork>
+      </toolbox>
+    </matlab>
+    <platform>
+      <unix>false</unix>
+      <mac>false</mac>
+      <windows>true</windows>
+      <win2k>false</win2k>
+      <winxp>false</winxp>
+      <vista>false</vista>
+      <linux>false</linux>
+      <solaris>false</solaris>
+      <osver>10.0</osver>
+      <os32>false</os32>
+      <os64>true</os64>
+      <arch>win64</arch>
+      <matlab>true</matlab>
+    </platform>
+  </configuration>
+</deployment-project>
